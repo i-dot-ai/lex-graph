@@ -1,0 +1,60 @@
+[tool.poetry]
+name = "lex-graph-build"
+version = "0.1.0"
+description = "Creating a knowledge graph from UK legislation."
+authors = ["Gavin Edwards <gavin.edwards@cabinetoffice.gov.uk>", "Liv Livesey <liv.livesey@cabinetoffice.gov.uk>",]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "lex_graph", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+beautifulsoup4 = "^4.12.3"
+pydantic = "^2.10.6"
+tqdm = "^4.67.1"
+pandas = "^2.2.3"
+pytest = "^8.3.4"
+requests = "^2.32.3"
+igraph = "^0.11.8"
+gravis = "^0.1.0"
+streamlit = "^1.41.1"
+matplotlib = "^3.10.0"
+plotly = "^6.0.0"
+lxml = "^5.3.0"
+openai = "^1.61.1"
+python-dotenv = "^1.0.1"
+torch = "^2.6.0"
+transformers = "^4.48.3"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+ruff = "^0.9.3"
+isort = "^6.0.0"
+pre-commit = "^4.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff]
+include = [
+    "src",
+    "tests",
+    "scripts",
+    "demo",
+]
+
+# Same as Black.
+line-length = 88
+indent-width = 4
+
+[tool.isort]
+src_paths = [
+    "src",
+    "tests",
+    "scripts",
+    "demo",
+]
+
+profile="black"

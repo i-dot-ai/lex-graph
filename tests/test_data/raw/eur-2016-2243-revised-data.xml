@@ -1,0 +1,1329 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/eur/2016/2243" IdURI="http://www.legislation.gov.uk/id/eur/2016/2243" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="2.0" RestrictStartDate="2016-12-13" RestrictExtent="E+W+S+N.I."><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/eur/2016/2243</dc:identifier><dc:title>Commission Implementing Regulation (EU) 2016/2243 of 13 December 2016 amending Regulation (EC) No 341/2007 as regards the import tariff quota for garlic originating in China</dc:title><dct:alternative>Commission Implementing Regulation (EU) 2016/2243</dct:alternative><dc:description>Commission Implementing Regulation (EU) 2016/2243 of 13 December 2016 amending Regulation (EC) No 341/2007 as regards the import tariff quota for garlic originating in China</dc:description><dc:modified>2020-12-12</dc:modified><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:source>https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R2243</dc:source><dc:type>text</dc:type><dc:format>text/xml</dc:format><dc:language>en</dc:language><dct:valid>2016-12-13</dct:valid>
+
+					<atom:link rel="self" href="http://www.legislation.gov.uk/eur/2016/2243/data.xml" type="application/xml"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/eur/2016/2243/resources" title="More Resources"/>
+
+
+
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/eur/2016/2243" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/eur/2016/2243/introduction" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/eur/2016/2243/signature" title="signature"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/eur/2016/2243/body" title="body"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/annexes" href="http://www.legislation.gov.uk/eur/2016/2243/annexes" title="annexes"/>
+
+					<atom:link rel="http://www.legislation.gov.uk/def/date/euexitday" href="http://www.legislation.gov.uk/eur/2016/2243/2020-01-31" title="2020-01-31"/><atom:link rel="http://www.legislation.gov.uk/def/date/euexitTransitionEnd" href="http://www.legislation.gov.uk/eur/2016/2243/2020-12-31" title="2020-12-31"/>
+
+
+					<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/eur/2016/2243/data.rdf" title="RDF/XML"/><atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/eur/2016/2243/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/eur/2016/2243/data.xht" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/eur/2016/2243/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/eur/2016/2243/data.html" title="HTML5 snippet"/>
+
+					<atom:link rel="alternate" href="http://www.legislation.gov.uk/eur/2016/2243/pdfs/eur_20162243_adopted_en.pdf" type="application/pdf" title="Original PDF"/>
+					<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/eur/2016/2243/contents" title="Table of Contents"/>
+
+					<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/eur/2016/2243/adopted" title="adopted"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/eur/2016/2243/2016-12-13" title="2016-12-13"/>
+
+
+					<ukm:EUMetadata><ukm:DocumentClassification>
+            <ukm:DocumentCategory Value="euretained"/>
+            <ukm:DocumentMainType Value="EuropeanUnionRegulation"/>
+            <ukm:DocumentStatus Value="revised"/>
+         </ukm:DocumentClassification><ukm:Year Value="2016"/><ukm:Number Value="2243"/><ukm:EURLexIdentifiers>
+            <ukm:Cellar Value="9176e909-c1d6-11e6-a6db-01aa75ed71a1"/>
+            <ukm:CELEX Value="32016R2243"/>
+            <ukm:ELI Value="reg_impl:2016:2243:oj"/>
+            <ukm:OfficialJournal Value="JOL_2016_339_R_0001"/>
+         </ukm:EURLexIdentifiers><ukm:EnactmentDate Date="2016-12-13"/><ukm:EURLexModified Date="2020-06-17T07:54:12Z"/><ukm:EURLexExtracted Date="2020-06-17T12:06:46Z"/><ukm:XMLGenerated Date="2020-12-12T17:42:24Z"/><ukm:XMLImported Date="2020-12-12T23:38:51Z"/><ukm:Treaty Title="Treaty on the Functioning of the European Union (consolidated version 2012)" Code="TFEU_2012"/><ukm:CreatedBy Label="European Commission" URI="http://publications.europa.eu/resource/authority/corporate-body/COM"/><ukm:Subject Scheme="EuroVoc" Label="import (EU)" URI="http://eurovoc.europa.eu/3191"/><ukm:Subject Scheme="EuroVoc" Label="import licence" URI="http://eurovoc.europa.eu/1644"/><ukm:Subject Scheme="EuroVoc" Label="bulb vegetable" URI="http://eurovoc.europa.eu/1603"/><ukm:Subject Scheme="EuroVoc" Label="tariff quota" URI="http://eurovoc.europa.eu/161"/><ukm:Subject Scheme="SubjectMatter" Label="Fruit and vegetables" URI="http://publications.europa.eu/resource/authority/fd_070/F-L"/><ukm:Subject Scheme="EuroVoc" Label="China" URI="http://eurovoc.europa.eu/5969"/><ukm:Subject Scheme="EuroVoc" Label="originating product" URI="http://eurovoc.europa.eu/2771"/><ukm:Subject Scheme="DirectoryCode" Label="Fresh fruit and vegetables" URI="http://publications.europa.eu/resource/authority/fd_555/036054"/><ukm:Subject Scheme="DirectoryCode" Label="Agriculture" URI="http://publications.europa.eu/resource/authority/fd_555/03"/><ukm:Subject Scheme="DirectoryCode" Label="Products subject to market organisation" URI="http://publications.europa.eu/resource/authority/fd_555/0360"/><ukm:Subject Scheme="EuroVoc" Label="common organisation of markets" URI="http://eurovoc.europa.eu/2173"/><ukm:EURLexMetadata>
+            <WORK xmlns="">
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/cellar/9176e909-c1d6-11e6-a6db-01aa75ed71a1</VALUE>
+                  <IDENTIFIER>9176e909-c1d6-11e6-a6db-01aa75ed71a1</IDENTIFIER>
+                  <TYPE>cellar</TYPE>
+               </URI>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/celex/32016R2243</VALUE>
+                     <IDENTIFIER>32016R2243</IDENTIFIER>
+                     <TYPE>celex</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/eli/reg_impl/2016/2243/oj</VALUE>
+                     <IDENTIFIER>reg_impl:2016:2243:oj</IDENTIFIER>
+                     <TYPE>eli</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/oj/JOL_2016_339_R_0001</VALUE>
+                     <IDENTIFIER>JOL_2016_339_R_0001</IDENTIFIER>
+                     <TYPE>oj</TYPE>
+                  </URI>
+               </SAMEAS>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                        <IDENTIFIER>3191</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <PREFLABEL>import (EU)</PREFLABEL>
+                     <ALTLABEL>Community import</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/614</VALUE>
+                        <IDENTIFIER>614</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>614</IDENTIFIER>
+                     <PREFLABEL>trading operation</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100193</VALUE>
+                        <IDENTIFIER>100193</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2016</IDENTIFIER>
+                     <PREFLABEL>2016 trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <VERSION type="data">
+                  <VALUE>1.32</VALUE>
+               </VERSION>
+               <DATE_DOCUMENT type="date">
+                  <VALUE>2016-12-13</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </DATE_DOCUMENT>
+               <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/ce1fdb47-6c04-11e3-9afb-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>ce1fdb47-6c04-11e3-9afb-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2013_347_R_0671_01</VALUE>
+                        <IDENTIFIER>JOL_2013_347_R_0671_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/reg/2013/1308/oj</VALUE>
+                        <IDENTIFIER>reg:2013:1308:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32013R1308</VALUE>
+                        <IDENTIFIER>32013R1308</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <COMMENT_ON_LEGAL_BASIS>A187PTA)</COMMENT_ON_LEGAL_BASIS>
+                     <ARTICLE>187</ARTICLE>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/1644</VALUE>
+                        <IDENTIFIER>1644</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1644</IDENTIFIER>
+                     <PREFLABEL>import licence</PREFLABEL>
+                     <ALTLABEL>import authorisation</ALTLABEL>
+                     <ALTLABEL>import permit</ALTLABEL>
+                     <ALTLABEL>import certificate</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3156</VALUE>
+                        <IDENTIFIER>3156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3156</IDENTIFIER>
+                     <PREFLABEL>customs regulations</PREFLABEL>
+                     <ALTLABEL>customs treatment</ALTLABEL>
+                     <ALTLABEL>customs legislation</ALTLABEL>
+                     <ALTLABEL>community customs code</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100192</VALUE>
+                        <IDENTIFIER>100192</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2011</IDENTIFIER>
+                     <PREFLABEL>2011 tariff policy</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <DATE type="date">
+                  <VALUE>2016-12-17</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>17</DAY>
+               </DATE>
+               <ID_CELEX type="data">
+                  <VALUE>32016R2243</VALUE>
+               </ID_CELEX>
+               <DATE type="date">
+                  <VALUE>2017-01-01</VALUE>
+                  <YEAR>2017</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>01</DAY>
+               </DATE>
+               <WORK_CREATED_BY_AGENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+                     <IDENTIFIER>COM</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>COM</OP-CODE>
+                  <IDENTIFIER>COM</IDENTIFIER>
+                  <PREFLABEL>European Commission</PREFLABEL>
+                  <ALTLABEL>EC</ALTLABEL>
+                  <ALTLABEL>Commission of the European Communities</ALTLABEL>
+                  <ALTLABEL>European Commission</ALTLABEL>
+                  <ALTLABEL>Commission</ALTLABEL>
+               </WORK_CREATED_BY_AGENT>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>immc:C(2016)8297/869782</VALUE>
+               </WORK_ID_DOCUMENT>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/REG_IMPL</VALUE>
+                     <IDENTIFIER>REG_IMPL</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>REG_IMPL</OP-CODE>
+                  <IDENTIFIER>REG_IMPL</IDENTIFIER>
+                  <PREFLABEL>Implementing regulation</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <RESOURCE_LEGAL_ELI type="data">
+                  <VALUE>http://data.europa.eu/eli/reg_impl/2016/2243/oj</VALUE>
+               </RESOURCE_LEGAL_ELI>
+               <LASTMODIFICATIONDATE type="date">
+                  <VALUE>2020-06-17T09:54:12.263+02:00</VALUE>
+                  <YEAR>2020</YEAR>
+                  <MONTH>06</MONTH>
+                  <DAY>17</DAY>
+               </LASTMODIFICATIONDATE>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>R</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/1603</VALUE>
+                        <IDENTIFIER>1603</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1603</IDENTIFIER>
+                     <PREFLABEL>bulb vegetable</PREFLABEL>
+                     <ALTLABEL>scallion</ALTLABEL>
+                     <ALTLABEL>garlic</ALTLABEL>
+                     <ALTLABEL>onion</ALTLABEL>
+                     <ALTLABEL>shallot</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/1602</VALUE>
+                        <IDENTIFIER>1602</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1602</IDENTIFIER>
+                     <PREFLABEL>vegetable</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100157</VALUE>
+                        <IDENTIFIER>100157</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>60</IDENTIFIER>
+                     <PREFLABEL>60 AGRI-FOODSTUFFS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100253</VALUE>
+                        <IDENTIFIER>100253</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6006</IDENTIFIER>
+                     <PREFLABEL>6006 plant product</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/161</VALUE>
+                        <IDENTIFIER>161</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>161</IDENTIFIER>
+                     <PREFLABEL>tariff quota</PREFLABEL>
+                     <ALTLABEL>zero-duty quota</ALTLABEL>
+                     <ALTLABEL>quota at a reduced level of duty</ALTLABEL>
+                     <ALTLABEL>allocation of tariff quota</ALTLABEL>
+                     <ALTLABEL>opening of tariff quota</ALTLABEL>
+                     <ALTLABEL>administration of tariff quota</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2519</VALUE>
+                        <IDENTIFIER>2519</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2519</IDENTIFIER>
+                     <PREFLABEL>tariff policy</PREFLABEL>
+                     <ALTLABEL>customs policy</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100192</VALUE>
+                        <IDENTIFIER>100192</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2011</IDENTIFIER>
+                     <PREFLABEL>2011 tariff policy</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2173</VALUE>
+                     <IDENTIFIER>2173</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2173</IDENTIFIER>
+                  <PREFLABEL>common organisation of markets</PREFLABEL>
+                  <ALTLABEL>Single CMO</ALTLABEL>
+                  <ALTLABEL>single common market organisation</ALTLABEL>
+                  <ALTLABEL>CMO</ALTLABEL>
+                  <ALTLABEL>common market organisation</ALTLABEL>
+                  <ALTLABEL>common organization of markets</ALTLABEL>
+               </IS_ABOUT>
+               <REGULATION_SERVICE_RESPONSIBLE type="data">
+                  <VALUE>AGRI</VALUE>
+               </REGULATION_SERVICE_RESPONSIBLE>
+               <IDENTIFIER type="data">
+                  <VALUE>http://data.europa.eu/eli/reg_impl/2016/2243/oj</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>2243</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <RESOURCE_LEGAL_IN-FORCE type="data">
+                  <VALUE>true</VALUE>
+               </RESOURCE_LEGAL_IN-FORCE>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/F-L</VALUE>
+                        <IDENTIFIER>F-L</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>F-L</OP-CODE>
+                     <IDENTIFIER>F-L</IDENTIFIER>
+                     <PREFLABEL>Fruit and vegetables</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>celex:32016R2243</VALUE>
+               </WORK_ID_DOCUMENT>
+               <WORK_CITES_WORK type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/819497a9-9b40-11e6-868c-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>819497a9-9b40-11e6-868c-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2016_291_R_0004</VALUE>
+                        <IDENTIFIER>JOL_2016_291_R_0004</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/22016A1026%2802%29</VALUE>
+                        <IDENTIFIER>22016A1026(02)</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </WORK_CITES_WORK>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>32016R2243</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/6655c2f9-c1d5-11e6-a6db-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>6655c2f9-c1d5-11e6-a6db-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2016_339_R</VALUE>
+                        <IDENTIFIER>JOL_2016_339_R</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+               <IDENTIFIER type="data">
+                  <VALUE>oj:JOL_2016_339_R_0001</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_AMENDS_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/31d93a28-54cd-45f6-ac8e-41e2c81d39cb</VALUE>
+                     <IDENTIFIER>31d93a28-54cd-45f6-ac8e-41e2c81d39cb</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2007_090_R_0012_01</VALUE>
+                        <IDENTIFIER>JOL_2007_090_R_0012_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32007R0341</VALUE>
+                        <IDENTIFIER>32007R0341</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/reg/2007/341/oj</VALUE>
+                        <IDENTIFIER>reg:2007:341:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <ROLE2>{R|http://publications.europa.eu/resource/authority/fd_375/R}</ROLE2>
+                     <REFERENCE_TO_MODIFIED_LOCATION>{AN|http://publications.europa.eu/resource/authority/fd_370/AN} I</REFERENCE_TO_MODIFIED_LOCATION>
+                     <START_OF_VALIDITY>2016-12-17</START_OF_VALIDITY>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_AMENDS_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/REG_IMPL</VALUE>
+                     <IDENTIFIER>REG_IMPL</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>REG_IMPL</OP-CODE>
+                  <IDENTIFIER>REG_IMPL</IDENTIFIER>
+                  <PREFLABEL>Implementing regulation</PREFLABEL>
+               </RESOURCE_LEGAL_HAS_TYPE_ACT_CONCEPT_TYPE_ACT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2771</VALUE>
+                     <IDENTIFIER>2771</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2771</IDENTIFIER>
+                  <PREFLABEL>originating product</PREFLABEL>
+                  <ALTLABEL>product origin</ALTLABEL>
+                  <ALTLABEL>rule of origin</ALTLABEL>
+                  <ALTLABEL>origin of goods</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_CITES_WORK type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/6530d4c7-9b40-11e6-868c-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>6530d4c7-9b40-11e6-868c-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2016_291_R_0003</VALUE>
+                        <IDENTIFIER>JOL_2016_291_R_0003</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32016D1885</VALUE>
+                        <IDENTIFIER>32016D1885</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2016/1885/oj</VALUE>
+                        <IDENTIFIER>dec:2016:1885:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </WORK_CITES_WORK>
+               <RESOURCE_LEGAL_NUMBER_NATURAL type="data">
+                  <VALUE>2243</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL>
+               <CREATIONDATE type="date">
+                  <VALUE>2016-12-14T09:23:29.290+01:00</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>14</DAY>
+               </CREATIONDATE>
+               <DATE type="date">
+                  <VALUE>2016-12-14</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>14</DAY>
+               </DATE>
+               <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/treaty/TFEU_2012</VALUE>
+                     <IDENTIFIER>TFEU_2012</IDENTIFIER>
+                     <TYPE>treaty</TYPE>
+                  </URI>
+                  <OP-CODE>TFEU_2012</OP-CODE>
+                  <IDENTIFIER>TFEU_2012</IDENTIFIER>
+                  <PREFLABEL>Treaty on the Functioning of the European Union (consolidated version 2012)</PREFLABEL>
+                  <ALTLABEL>TFEU (2012)</ALTLABEL>
+                  <ALTLABEL>Consolidated version of the Treaty on the Functioning of the European Union (2012)</ALTLABEL>
+               </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5969</VALUE>
+                        <IDENTIFIER>5969</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5969</IDENTIFIER>
+                     <PREFLABEL>China</PREFLABEL>
+                     <ALTLABEL>People’s Republic of China</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/c_964c9649</VALUE>
+                        <IDENTIFIER>c_964c9649</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>c_964c9649</IDENTIFIER>
+                     <PREFLABEL>BRICS countries</PREFLABEL>
+                     <ALTLABEL>BRICS</ALTLABEL>
+                     <ALTLABEL>Brazil, Russia, India, China and South Africa</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/956</VALUE>
+                        <IDENTIFIER>956</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>956</IDENTIFIER>
+                     <PREFLABEL>Far East</PREFLABEL>
+                     <ALTLABEL>Far Eastern countries</ALTLABEL>
+                     <ALTLABEL>Eastern Asia</ALTLABEL>
+                     <ALTLABEL>East Asia</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100161</VALUE>
+                        <IDENTIFIER>100161</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>72</IDENTIFIER>
+                     <PREFLABEL>72 GEOGRAPHY</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100281</VALUE>
+                        <IDENTIFIER>100281</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>7226</IDENTIFIER>
+                     <PREFLABEL>7226 Asia and Oceania</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100282</VALUE>
+                        <IDENTIFIER>100282</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>7231</IDENTIFIER>
+                     <PREFLABEL>7231 economic geography</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2771</VALUE>
+                        <IDENTIFIER>2771</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2771</IDENTIFIER>
+                     <PREFLABEL>originating product</PREFLABEL>
+                     <ALTLABEL>product origin</ALTLABEL>
+                     <ALTLABEL>rule of origin</ALTLABEL>
+                     <ALTLABEL>origin of goods</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/11</VALUE>
+                        <IDENTIFIER>11</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>11</IDENTIFIER>
+                     <PREFLABEL>international trade</PREFLABEL>
+                     <ALTLABEL>world trade</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100147</VALUE>
+                        <IDENTIFIER>100147</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>20</IDENTIFIER>
+                     <PREFLABEL>20 TRADE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100194</VALUE>
+                        <IDENTIFIER>100194</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2021</IDENTIFIER>
+                     <PREFLABEL>2021 international trade</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_REPERTOIRE type="data">
+                  <VALUE>LIE</VALUE>
+               </RESOURCE_LEGAL_REPERTOIRE>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_555/036054</VALUE>
+                     <IDENTIFIER>036054</IDENTIFIER>
+                     <TYPE>fd_555</TYPE>
+                  </URI>
+                  <OP-CODE>036054</OP-CODE>
+                  <IDENTIFIER>036054</IDENTIFIER>
+                  <PREFLABEL>Fresh fruit and vegetables</PREFLABEL>
+               </IS_ABOUT>
+               <BASED_ON type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/ce1fdb47-6c04-11e3-9afb-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>ce1fdb47-6c04-11e3-9afb-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2013_347_R_0671_01</VALUE>
+                        <IDENTIFIER>JOL_2013_347_R_0671_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/reg/2013/1308/oj</VALUE>
+                        <IDENTIFIER>reg:2013:1308:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32013R1308</VALUE>
+                        <IDENTIFIER>32013R1308</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </BASED_ON>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/5969</VALUE>
+                     <IDENTIFIER>5969</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>5969</IDENTIFIER>
+                  <PREFLABEL>China</PREFLABEL>
+                  <ALTLABEL>People’s Republic of China</ALTLABEL>
+               </IS_ABOUT>
+               <IDENTIFIER type="data">
+                  <VALUE>celex:32016R2243</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+                  <VALUE>2017-01-01</VALUE>
+                  <YEAR>2017</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>01</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{V|http://publications.europa.eu/resource/authority/fd_335/V} {ART|http://publications.europa.eu/resource/authority/fd_335/ART} 2</COMMENT_ON_DATE>
+                     <TYPE_OF_DATE>{MA|http://publications.europa.eu/resource/authority/fd_335/MA}</TYPE_OF_DATE>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>oj:JOL_2016_339_R_0001</VALUE>
+               </WORK_ID_DOCUMENT>
+               <IDENTIFIER type="data">
+                  <VALUE>32016R2243</VALUE>
+               </IDENTIFIER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/161</VALUE>
+                     <IDENTIFIER>161</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>161</IDENTIFIER>
+                  <PREFLABEL>tariff quota</PREFLABEL>
+                  <ALTLABEL>zero-duty quota</ALTLABEL>
+                  <ALTLABEL>quota at a reduced level of duty</ALTLABEL>
+                  <ALTLABEL>allocation of tariff quota</ALTLABEL>
+                  <ALTLABEL>opening of tariff quota</ALTLABEL>
+                  <ALTLABEL>administration of tariff quota</ALTLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/1603</VALUE>
+                     <IDENTIFIER>1603</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>1603</IDENTIFIER>
+                  <PREFLABEL>bulb vegetable</PREFLABEL>
+                  <ALTLABEL>scallion</ALTLABEL>
+                  <ALTLABEL>garlic</ALTLABEL>
+                  <ALTLABEL>onion</ALTLABEL>
+                  <ALTLABEL>shallot</ALTLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+                  <VALUE>2020-12-31</VALUE>
+                  <YEAR>2020</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>31</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{AI/PAR|http://publications.europa.eu/resource/authority/fd_330/AI%2FPAR} 32020R0760</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+               <ELI type="data">
+                  <VALUE>http://data.europa.eu/eli/reg_impl/2016/2243/oj</VALUE>
+               </ELI>
+               <WORK_CITES_WORK type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/2dcda054-d764-11e5-8fea-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>2dcda054-d764-11e5-8fea-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/dec/2016/243/oj</VALUE>
+                        <IDENTIFIER>dec:2016:243:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32016D0243</VALUE>
+                        <IDENTIFIER>32016D0243</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2016_045_R_0006</VALUE>
+                        <IDENTIFIER>JOL_2016_045_R_0006</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </WORK_CITES_WORK>
+               <SERVICE_RESPONSIBLE type="data">
+                  <VALUE>AGRI</VALUE>
+               </SERVICE_RESPONSIBLE>
+               <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+                  <VALUE>2016-12-17</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>17</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATPUB|http://publications.europa.eu/resource/authority/fd_335/DATPUB} +3 {V|http://publications.europa.eu/resource/authority/fd_335/V} {ART|http://publications.europa.eu/resource/authority/fd_335/ART} 2</COMMENT_ON_DATE>
+                     <TYPE_OF_DATE>{EV|http://publications.europa.eu/resource/authority/fd_335/EV}</TYPE_OF_DATE>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2016</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/036054</VALUE>
+                        <IDENTIFIER>036054</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>036054</OP-CODE>
+                     <IDENTIFIER>036054</IDENTIFIER>
+                     <PREFLABEL>Fresh fruit and vegetables</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_3>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/03</VALUE>
+                        <IDENTIFIER>03</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>03</OP-CODE>
+                     <IDENTIFIER>03</IDENTIFIER>
+                     <PREFLABEL>Agriculture</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/0360</VALUE>
+                        <IDENTIFIER>0360</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>0360</OP-CODE>
+                     <IDENTIFIER>0360</IDENTIFIER>
+                     <PREFLABEL>Products subject to market organisation</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <CREATED_BY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+                     <IDENTIFIER>COM</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>COM</OP-CODE>
+                  <IDENTIFIER>COM</IDENTIFIER>
+                  <PREFLABEL>European Commission</PREFLABEL>
+                  <ALTLABEL>EC</ALTLABEL>
+                  <ALTLABEL>Commission of the European Communities</ALTLABEL>
+                  <ALTLABEL>European Commission</ALTLABEL>
+                  <ALTLABEL>Commission</ALTLABEL>
+               </CREATED_BY>
+               <YEAR type="data">
+                  <VALUE>2016</VALUE>
+               </YEAR>
+               <RESOURCE_LEGAL_COMMENT_INTERNAL type="data">
+                  <VALUE>MAN2</VALUE>
+               </RESOURCE_LEGAL_COMMENT_INTERNAL>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2173</VALUE>
+                        <IDENTIFIER>2173</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2173</IDENTIFIER>
+                     <PREFLABEL>common organisation of markets</PREFLABEL>
+                     <ALTLABEL>Single CMO</ALTLABEL>
+                     <ALTLABEL>single common market organisation</ALTLABEL>
+                     <ALTLABEL>CMO</ALTLABEL>
+                     <ALTLABEL>common market organisation</ALTLABEL>
+                     <ALTLABEL>common organization of markets</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2443</VALUE>
+                        <IDENTIFIER>2443</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2443</IDENTIFIER>
+                     <PREFLABEL>common agricultural policy</PREFLABEL>
+                     <ALTLABEL>green Europe</ALTLABEL>
+                     <ALTLABEL>CAP</ALTLABEL>
+                     <ALTLABEL>common agricultural market</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100156</VALUE>
+                        <IDENTIFIER>100156</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>56</IDENTIFIER>
+                     <PREFLABEL>56 AGRICULTURE, FORESTRY AND FISHERIES</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100245</VALUE>
+                        <IDENTIFIER>100245</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5606</IDENTIFIER>
+                     <PREFLABEL>5606 agricultural policy</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/81df0342-d1c4-11e6-ad7c-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>81df0342-d1c4-11e6-ad7c-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2007R0341%2F20170101</VALUE>
+                        <IDENTIFIER>2007R0341/20170101</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/reg/2007/341/2017-01-01</VALUE>
+                        <IDENTIFIER>reg:2007:341:2017-01-01</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/02007R0341-20170101</VALUE>
+                        <IDENTIFIER>02007R0341-20170101</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <RESOURCE_LEGAL_IMPLICITLY_REPEALED_BY_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/8fdc9039-ac71-11ea-bb7a-01aa75ed71a1</VALUE>
+                     <IDENTIFIER>8fdc9039-ac71-11ea-bb7a-01aa75ed71a1</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/reg_del/2020/760/oj</VALUE>
+                        <IDENTIFIER>reg_del:2020:760:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2020_185_R_0001</VALUE>
+                        <IDENTIFIER>JOL_2020_185_R_0001</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/32020R0760</VALUE>
+                        <IDENTIFIER>32020R0760</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <TYPE_OF_LINK_TARGET>MS</TYPE_OF_LINK_TARGET>
+                     <START_OF_VALIDITY>2021-01-01</START_OF_VALIDITY>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_IMPLICITLY_REPEALED_BY_RESOURCE_LEGAL>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_070/F-L</VALUE>
+                     <IDENTIFIER>F-L</IDENTIFIER>
+                     <TYPE>fd_070</TYPE>
+                  </URI>
+                  <OP-CODE>F-L</OP-CODE>
+                  <IDENTIFIER>F-L</IDENTIFIER>
+                  <PREFLABEL>Fruit and vegetables</PREFLABEL>
+               </IS_ABOUT>
+               <ID_SECTOR type="data">
+                  <VALUE>3</VALUE>
+               </ID_SECTOR>
+               <DATE type="date">
+                  <VALUE>2020-12-31</VALUE>
+                  <YEAR>2020</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>31</DAY>
+               </DATE>
+               <BASED_ON type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/treaty/TFEU_2012</VALUE>
+                     <IDENTIFIER>TFEU_2012</IDENTIFIER>
+                     <TYPE>treaty</TYPE>
+                  </URI>
+                  <OP-CODE>TFEU_2012</OP-CODE>
+                  <IDENTIFIER>TFEU_2012</IDENTIFIER>
+                  <PREFLABEL>Treaty on the Functioning of the European Union (consolidated version 2012)</PREFLABEL>
+                  <ALTLABEL>TFEU (2012)</ALTLABEL>
+                  <ALTLABEL>Consolidated version of the Treaty on the Functioning of the European Union (2012)</ALTLABEL>
+               </BASED_ON>
+               <RESOURCE_LEGAL_RESPONSIBILITY_OF_AGENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/AGRI</VALUE>
+                     <IDENTIFIER>AGRI</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>AGRI</OP-CODE>
+                  <IDENTIFIER>AGRI</IDENTIFIER>
+                  <PREFLABEL>Directorate-General for Agriculture and Rural Development</PREFLABEL>
+                  <ALTLABEL>Agriculture DG</ALTLABEL>
+                  <ALTLABEL>DG Agriculture and Rural Development</ALTLABEL>
+                  <ALTLABEL>DG VI – Agriculture</ALTLABEL>
+                  <ALTLABEL>Directorate-General for Agriculture</ALTLABEL>
+               </RESOURCE_LEGAL_RESPONSIBILITY_OF_AGENT>
+               <IDENTIFIER type="data">
+                  <VALUE>immc:C(2016)8297/869782</VALUE>
+               </IDENTIFIER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3191</VALUE>
+                     <IDENTIFIER>3191</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3191</IDENTIFIER>
+                  <PREFLABEL>import (EU)</PREFLABEL>
+                  <ALTLABEL>Community import</ALTLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/76746b1c-470d-4e8a-a860-a86fc930874a</VALUE>
+                     <IDENTIFIER>76746b1c-470d-4e8a-a860-a86fc930874a</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/consolidation/2007R0341%2F20170101_0100010</VALUE>
+                        <IDENTIFIER>2007R0341/20170101_0100010</IDENTIFIER>
+                        <TYPE>consolidation</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_CONSOLIDATED_BY_ACT_CONSOLIDATED>
+               <DATE type="date">
+                  <VALUE>2016-12-13</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+               </DATE>
+               <DATE_CREATION_LEGACY type="date">
+                  <VALUE>2016-12-14</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>14</DAY>
+               </DATE_CREATION_LEGACY>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2016-12-13</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>13</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATADOPT|http://publications.europa.eu/resource/authority/fd_365/DATADOPT}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </WORK_DATE_DOCUMENT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/1644</VALUE>
+                     <IDENTIFIER>1644</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>1644</IDENTIFIER>
+                  <PREFLABEL>import licence</PREFLABEL>
+                  <ALTLABEL>import authorisation</ALTLABEL>
+                  <ALTLABEL>import permit</ALTLABEL>
+                  <ALTLABEL>import certificate</ALTLABEL>
+               </IS_ABOUT>
+               <TYPE>R</TYPE>
+               <TYPE>cdm:regulation</TYPE>
+               <TYPE>cdm:legislation_secondary</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+               <TYPE>cdm:work</TYPE>
+            </WORK>
+            <EXPRESSION xmlns="">
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/cellar/9176e909-c1d6-11e6-a6db-01aa75ed71a1.0006</VALUE>
+                  <IDENTIFIER>9176e909-c1d6-11e6-a6db-01aa75ed71a1.0006</IDENTIFIER>
+                  <TYPE>cellar</TYPE>
+               </URI>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/oj/JOL_2016_339_R_0001.ENG</VALUE>
+                     <IDENTIFIER>JOL_2016_339_R_0001.ENG</IDENTIFIER>
+                     <TYPE>oj</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/celex/32016R2243.ENG</VALUE>
+                     <IDENTIFIER>32016R2243.ENG</IDENTIFIER>
+                     <TYPE>celex</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.2016.339.01.0001.01.ENG</VALUE>
+                     <IDENTIFIER>OJ.L_.2016.339.01.0001.01.ENG</IDENTIFIER>
+                     <TYPE>uriserv</TYPE>
+                  </URI>
+               </SAMEAS>
+               <TITLE type="data">
+                  <VALUE>Commission Implementing Regulation (EU) 2016/2243 of 13 December 2016 amending Regulation (EC) No 341/2007 as regards the import tariff quota for garlic originating in China</VALUE>
+               </TITLE>
+               <CREATIONDATE type="date">
+                  <VALUE>2016-12-14T09:23:29.290+01:00</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>14</DAY>
+               </CREATIONDATE>
+               <LANG type="data">
+                  <VALUE>eng</VALUE>
+               </LANG>
+               <EXPRESSION_SUBTITLE type="data">
+                  <VALUE>C/2016/8297</VALUE>
+               </EXPRESSION_SUBTITLE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <TITLE type="data">
+                  <VALUE>C/2016/8297</VALUE>
+               </TITLE>
+               <LANG type="data">
+                  <VALUE>en</VALUE>
+               </LANG>
+               <LASTMODIFICATIONDATE type="date">
+                  <VALUE>2016-12-14T09:35:50.384+01:00</VALUE>
+                  <YEAR>2016</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>14</DAY>
+               </LASTMODIFICATIONDATE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>Commission Implementing Regulation (EU) 2016/2243 of 13 December 2016 amending Regulation (EC) No 341/2007 as regards the import tariff quota for garlic originating in China</VALUE>
+               </EXPRESSION_TITLE>
+            </EXPRESSION>
+         </ukm:EURLexMetadata></ukm:EUMetadata>
+
+
+
+
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/eur/2016/2243/pdfs/eur_20162243_adopted_en.pdf" Date="2016-12-13" Size="324930"/> </ukm:Alternatives>
+
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="3"/>
+									<ukm:BodyParagraphs Value="2"/>
+									<ukm:ScheduleParagraphs Value="1"/>
+									<ukm:AttachmentParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+				</ukm:Metadata><EURetained>
+      <EUPrelims DocumentURI="http://www.legislation.gov.uk/eur/2016/2243/introduction" IdURI="http://www.legislation.gov.uk/id/eur/2016/2243/introduction" RestrictStartDate="2016-12-13" RestrictExtent="E+W+S+N.I.">
+         <MultilineTitle>
+            <Text>
+               <Uppercase>Commission Implementing Regulation</Uppercase> (EU) 2016/2243</Text>
+            <Text>of 13 December 2016</Text>
+            <Text>amending Regulation (EC) No 341/2007 as regards the import tariff quota for garlic originating in China</Text>
+         </MultilineTitle>
+         <EUPreamble>
+            <P>
+               <Text>THE EUROPEAN COMMISSION,</Text>
+            </P>
+            <P>
+               <Text>Having regard to the Treaty on the Functioning of the European Union,</Text>
+            </P>
+            <P>
+               <Text>Having regard to Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/1972, (EEC) No 234/1979, (EC) No 1037/2001 and (EC) No 1234/2007<FootnoteRef Ref="f00001"/>, and in particular point (a) of Article 187 thereof,</Text>
+            </P>
+            <P>
+               <Text>Whereas:</Text>
+            </P>
+            <Division>
+               <Number>(1)</Number>
+               <P>
+                  <Text>Commission Regulation (EC) No 341/2007<FootnoteRef Ref="f00002"/> opens and provides for the administration of tariff quotas for garlic falling within CN code 0703 20 00 and for certain other agricultural products imported from third countries.</Text>
+               </P>
+            </Division>
+            <Division>
+               <Number>(2)</Number>
+               <P>
+                  <Text>The Agreement in the form of an Exchange of Letters between the European Union and the People's Republic of China pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedules of the Republic of Croatia in the course of its accession to the European Union, approved by Council Decision (EU) 2016/243<FootnoteRef Ref="f00003"/> provides for an increase by 2 150 tonnes of the Union tariff rate quota for garlic originating in China.</Text>
+               </P>
+            </Division>
+            <Division>
+               <Number>(3)</Number>
+               <P>
+                  <Text>The increase in the tariff rate quota should be reflected in Annex I to Regulation (EC) No 341/2007. Regulation (EC) No 341/2007 should therefore be amended accordingly.</Text>
+               </P>
+            </Division>
+            <Division>
+               <Number>(4)</Number>
+               <P>
+                  <Text>Since the Agreement between the European Union and the People's Republic of China was approved by the Council on 18 October 2016<FootnoteRef Ref="f00004"/>, importers could have access to the increased quantities as from the fourth sub-period of the import tariff quota period 2016/2017. Article 10(1) of Regulation (EC) No 341/2007 provides that importers have to lodge their applications for import licences during the first seven days of January for the fourth sub-period. It is therefore appropriate that this Regulation applies as from 1 January 2017.</Text>
+               </P>
+            </Division>
+            <Division>
+               <Number>(5)</Number>
+               <P>
+                  <Text>The measures provided for in this Regulation are in accordance with the opinion of the Committee for the Common Organisation of the Agricultural Markets,</Text>
+               </P>
+            </Division>
+            <P>
+               <Text>HAS ADOPTED THIS REGULATION:</Text>
+            </P>
+         </EUPreamble>
+      </EUPrelims>
+      <EUBody DocumentURI="http://www.legislation.gov.uk/eur/2016/2243/body" IdURI="http://www.legislation.gov.uk/id/eur/2016/2243/body" NumberOfProvisions="2" RestrictStartDate="2016-12-13" RestrictExtent="E+W+S+N.I.">
+         <P1group RestrictStartDate="2016-12-13" RestrictExtent="E+W+S+N.I.">
+            <Title>Amendment to Regulation (EC) No 341/2007</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/eur/2016/2243/article/1" IdURI="http://www.legislation.gov.uk/id/eur/2016/2243/article/1" id="article-1">
+               <Pnumber>Article 1</Pnumber>
+               <P1para>
+                  <Text>Annex I to Regulation (EC) No 341/2007 is replaced by the text in the Annex to this Regulation.</Text>
+               </P1para>
+            </P1>
+         </P1group>
+         <P1group RestrictStartDate="2016-12-13" RestrictExtent="E+W+S+N.I.">
+            <Title>Entry into force and application</Title>
+            <P1 DocumentURI="http://www.legislation.gov.uk/eur/2016/2243/article/2" IdURI="http://www.legislation.gov.uk/id/eur/2016/2243/article/2" id="article-2">
+               <Pnumber>Article 2</Pnumber>
+               <P1para>
+                  <Text>This Regulation shall enter into force on the third day following that of its publication in the <Emphasis>Official Journal of the European Union</Emphasis>.</Text>
+               </P1para>
+               <P1para>
+                  <Text>It shall apply from 1 January 2017.</Text>
+               </P1para>
+            </P1>
+         </P1group>
+         <SignedSection DocumentURI="http://www.legislation.gov.uk/eur/2016/2243/signature" IdURI="http://www.legislation.gov.uk/id/eur/2016/2243/signature" RestrictStartDate="2016-12-13" RestrictExtent="E+W+S+N.I.">
+            <Para>
+               <Text>This Regulation shall be binding in its entirety and directly applicable in all Member States.</Text>
+            </Para>
+            <Signatory>
+               <Para>
+                  <Text>Done at Brussels, 13 December 2016.</Text>
+               </Para>
+               <Signee>
+                  <Para>
+                     <Text>
+                        <Emphasis>For the Commission</Emphasis>
+                     </Text>
+                  </Para>
+                  <Para>
+                     <Text>
+                        <Emphasis>The President</Emphasis>
+                     </Text>
+                  </Para>
+                  <Para>
+                     <Text>Jean-Claude <Uppercase>Juncker</Uppercase>
+                     </Text>
+                  </Para>
+               </Signee>
+            </Signatory>
+         </SignedSection>
+      </EUBody>
+      <Schedules RestrictStartDate="2016-12-13" RestrictExtent="E+W+S+N.I.">
+         <Schedule DocumentURI="http://www.legislation.gov.uk/eur/2016/2243/annex" IdURI="http://www.legislation.gov.uk/id/eur/2016/2243/annex" id="annex" RestrictStartDate="2016-12-13" RestrictExtent="E+W+S+N.I.">
+            <Number>ANNEX</Number>
+            <ScheduleBody>
+               <P DocumentURI="http://www.legislation.gov.uk/eur/2016/2243/annex/paragraph/1" IdURI="http://www.legislation.gov.uk/id/eur/2016/2243/annex/paragraph/1" id="annex-paragraph-1" RestrictStartDate="2016-12-13" RestrictExtent="E+W+S+N.I.">
+                  <BlockExtract SourceClass="unknown" Context="unknown" Format="single">
+                     <Division DocumentURI="http://www.legislation.gov.uk/eur/2016/2243/annex/division/ANNEX" IdURI="http://www.legislation.gov.uk/id/eur/2016/2243/annex/division/ANNEX" id="annex-division-ANNEX" Type="ANNEX">
+                        <Number>ANNEX I</Number>
+                        <Title>
+                           <Strong>Tariff quotas opened pursuant to Decisions 2001/404/EC, 2006/398/EC, 2014/116/EU and (EU) 2016/243 for imports of garlic falling within CN code 0703 20 00</Strong>
+                        </Title>
+                        <Tabular Orientation="portrait">
+                           <table xmlns="http://www.w3.org/1999/xhtml" cols="7">
+                              <tbody><tr><th rowspan="2">Origin</th><th rowspan="2">Order number</th><th colspan="5">Quota (tonnes)</th></tr><tr><th>First subperiod (June to August)</th><th>Second subperiod (September to November)</th><th>Third subperiod (December to February)</th><th>Fourth subperiod (March to May)</th><th>Total</th></tr><tr><td>
+                                       <Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">Argentina</Strong>
+                                    </td><td/><td/><td/><td/><td/><td>
+                                       <Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">19 147</Strong>
+                                    </td></tr><tr><td>Traditional importers</td><td>09.4104</td><td>—</td><td>—</td><td>9 590</td><td>3 813</td><td/></tr><tr><td>New importers</td><td>09.4099</td><td>—</td><td>—</td><td>4 110</td><td>1 634</td><td/></tr><tr><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Total</Emphasis>
+                                    </td><td/><td>—</td><td>—</td><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">13 700</Emphasis>
+                                    </td><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">5 447</Emphasis>
+                                    </td><td/></tr><tr><td>
+                                       <Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">China</Strong>
+                                    </td><td/><td/><td/><td/><td/><td>
+                                       <Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">48 225</Strong>
+                                    </td></tr><tr><td>Traditional importers</td><td>09.4105</td><td>8 664</td><td>8 664</td><td>7 548</td><td>8 884</td><td/></tr><tr><td>New importers</td><td>09.4100</td><td>3 713</td><td>3 713</td><td>3 233</td><td>3 806</td><td/></tr><tr><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Total</Emphasis>
+                                    </td><td/><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">12 377</Emphasis>
+                                    </td><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">12 377</Emphasis>
+                                    </td><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">10 781</Emphasis>
+                                    </td><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">12 690</Emphasis>
+                                    </td><td/></tr><tr><td>
+                                       <Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">Other third countries</Strong>
+                                    </td><td/><td/><td/><td/><td/><td>
+                                       <Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">6 023</Strong>
+                                    </td></tr><tr><td>Traditional importers</td><td>09.4106</td><td>941</td><td>1 960</td><td>929</td><td>386</td><td/></tr><tr><td>New importers</td><td>09.4102</td><td>403</td><td>840</td><td>398</td><td>166</td><td/></tr><tr><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">Total</Emphasis>
+                                    </td><td/><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">1 344</Emphasis>
+                                    </td><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">2 800</Emphasis>
+                                    </td><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">1 327</Emphasis>
+                                    </td><td>
+                                       <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">552</Emphasis>
+                                    </td><td/></tr><tr><td>
+                                       <Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">Total</Strong>
+                                    </td><td/><td>
+                                       <Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">13 721</Strong>
+                                    </td><td>
+                                       <Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">15 177</Strong>
+                                    </td><td>
+                                       <Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">25 808</Strong>
+                                    </td><td>
+                                       <Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">18 689</Strong>
+                                    </td><td>
+                                       <Strong xmlns="http://www.legislation.gov.uk/namespaces/legislation">73 395</Strong>
+                                    </td></tr></tbody>
+                           </table>
+                        </Tabular>
+                     </Division>
+                  </BlockExtract>
+               </P>
+            </ScheduleBody>
+         </Schedule>
+      </Schedules>
+   </EURetained><Footnotes><Footnote id="f00001">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00001" Class="EuropeanUnionOfficialJournal" Year="2013" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0671.01.ENG" Date="2013-12-20">OJ L 347, 20.12.2013, p. 671</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote><Footnote id="f00002">
+         <FootnoteText>
+            <Para>
+               <Text>Commission Regulation (EC) No 341/2007 of 29 March 2007 opening and providing for the administration of tariff quotas and introducing a system of import licences and certificates of origin for garlic and certain other agricultural products imported from third countries (<Citation id="c00002" Class="EuropeanUnionOfficialJournal" Year="2007" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.090.01.0012.01.ENG" Date="2007-03-30">OJ L 90, 30.3.2007, p. 12</Citation>).</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote><Footnote id="f00003">
+         <FootnoteText>
+            <Para>
+               <Text>Council Decision (EU) 2016/243 of 12 February 2016 on the signing, on behalf of the European Union, of the Agreement in the form of an Exchange of Letters between the European Union and the People's Republic of China pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedule of the Republic of Croatia in the course of its accession to the European Union (<Citation id="c00003" Class="EuropeanUnionOfficialJournal" Year="2016" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.045.01.0012.01.ENG" Date="2016-02-20">OJ L 45, 20.2.2016, p. 12</Citation>).</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote><Footnote id="f00004">
+         <FootnoteText>
+            <Para>
+               <Text>Council Decision (EU) 2016/1885 of 18 October 2016 on the conclusion of the Agreement in the form of an Exchange of Letters between the European Union and the People's Republic of China pursuant to Article XXIV:6 and Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions in the schedule of the Republic of Croatia in the course of its accession to the European Union (<Citation id="c00004" Class="EuropeanUnionOfficialJournal" Year="2016" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.291.01.0007.01.ENG" Date="2016-10-26">OJ L 291, 26.10.2016, p. 7</Citation>).</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote></Footnotes></Legislation>

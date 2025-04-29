@@ -1,0 +1,14 @@
+[theme]
+base="light"
+primaryColor="#C50878"
+textColor="#1F2937"
+
+[server]
+enableStaticServing = true
+maxUploadSize = 1000
+
+[client]
+showErrorDetails = "stacktrace`"
+
+[logger]
+level = "debug"

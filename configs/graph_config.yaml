@@ -1,0 +1,17 @@
+# Default configuration for legislation graph builder
+
+# Paths
+input_path: "data/processed"
+output_path: "data/graph"
+
+# Processing mode (uncomment one of the following)
+# file: null                            # Process a single file
+all: true                           # Process all files
+# test: false                          # Run test processing
+# year: null                           # Process files from specific year
+
+# Additional filters
+type: null                           # Filter by legislation type (e.g., ukpga, eudn, asp)
+
+# Build settings
+granularity: "section"               # Graph granularity (options: section, etc)

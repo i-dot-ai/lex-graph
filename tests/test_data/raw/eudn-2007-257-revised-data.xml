@@ -1,0 +1,1830 @@
+<Legislation xmlns="http://www.legislation.gov.uk/namespaces/legislation" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DocumentURI="http://www.legislation.gov.uk/eudn/2007/257" IdURI="http://www.legislation.gov.uk/id/eudn/2007/257" NumberOfProvisions="2" xsi:schemaLocation="http://www.legislation.gov.uk/namespaces/legislation http://www.legislation.gov.uk/schema/legislation.xsd" SchemaVersion="2.0" RestrictStartDate="2006-12-20" RestrictExtent="E+W+S+N.I."><ukm:Metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ukm="http://www.legislation.gov.uk/namespaces/metadata">
+					<dc:identifier>http://www.legislation.gov.uk/eudn/2007/257</dc:identifier><dc:title>Commission Decision of 20 December 2006 on State aid No C 44/05 (ex NN 79/05, ex N 439/04) partially implemented by Poland for Huta Stalowa Wola S.A. (notified under document number C(2006) 6730) (Only the Polish version is authentic) (Text with EEA relevance) (2007/257/EC)</dc:title><dc:description>Commission Decision of 20 December 2006 on State aid No C 44/05 (ex NN 79/05, ex N 439/04) partially implemented by Poland for Huta Stalowa Wola S.A. (notified under document number C(2006) 6730) (Only the Polish version is authentic) (Text with EEA relevance) (2007/257/EC)</dc:description><dc:modified>2020-12-10</dc:modified><dc:publisher>Queen's Printer of Acts of Parliament</dc:publisher><dc:source>https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007D0257</dc:source><dc:type>text</dc:type><dc:format>text/xml</dc:format><dc:language>en</dc:language><dct:valid>2006-12-20</dct:valid>
+
+					<atom:link rel="self" href="http://www.legislation.gov.uk/eudn/2007/257/data.xml" type="application/xml"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/resources" href="http://www.legislation.gov.uk/eudn/2007/257/resources" title="More Resources"/>
+
+
+
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/act" href="http://www.legislation.gov.uk/eudn/2007/257" title="whole act"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/introduction" href="http://www.legislation.gov.uk/eudn/2007/257/introduction" title="introduction"/><atom:link rel="http://www.legislation.gov.uk/def/navigation/signature" href="http://www.legislation.gov.uk/eudn/2007/257/signature" title="signature"/>
+					<atom:link rel="http://www.legislation.gov.uk/def/navigation/body" href="http://www.legislation.gov.uk/eudn/2007/257/body" title="body"/>
+
+
+					<atom:link rel="http://www.legislation.gov.uk/def/date/euexitday" href="http://www.legislation.gov.uk/eudn/2007/257/2020-01-31" title="2020-01-31"/><atom:link rel="http://www.legislation.gov.uk/def/date/euexitTransitionEnd" href="http://www.legislation.gov.uk/eudn/2007/257/2020-12-31" title="2020-12-31"/>
+
+
+					<atom:link rel="alternate" type="application/rdf+xml" href="http://www.legislation.gov.uk/eudn/2007/257/data.rdf" title="RDF/XML"/><atom:link rel="alternate" type="application/akn+xml" href="http://www.legislation.gov.uk/eudn/2007/257/data.akn" title="AKN"/><atom:link rel="alternate" type="application/xhtml+xml" href="http://www.legislation.gov.uk/eudn/2007/257/data.xht" title="HTML snippet"/><atom:link rel="alternate" type="application/pdf" href="http://www.legislation.gov.uk/eudn/2007/257/data.pdf" title="PDF"/>
+					<atom:link rel="alternate" type="application/akn+xhtml" href="http://www.legislation.gov.uk/eudn/2007/257/data.html" title="HTML5 snippet"/>
+
+					<atom:link rel="alternate" href="http://www.legislation.gov.uk/eudn/2007/257/pdfs/eudn_20070257_adopted_en.pdf" type="application/pdf" title="Original PDF"/>
+					<atom:link rel="http://purl.org/dc/terms/tableOfContents" hreflang="en" href="http://www.legislation.gov.uk/eudn/2007/257/contents" title="Table of Contents"/>
+
+					<atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/eudn/2007/257/adopted" title="adopted"/><atom:link rel="http://purl.org/dc/terms/hasVersion" href="http://www.legislation.gov.uk/eudn/2007/257/2006-12-20" title="2006-12-20"/>
+
+
+					<ukm:EUMetadata><ukm:DocumentClassification>
+            <ukm:DocumentCategory Value="euretained"/>
+            <ukm:DocumentMainType Value="EuropeanUnionDecision"/>
+            <ukm:DocumentStatus Value="revised"/>
+         </ukm:DocumentClassification><ukm:Year Value="2007"/><ukm:Number Value="257"/><ukm:EURLexIdentifiers>
+            <ukm:Cellar Value="2bd09997-13b1-4cb0-9c16-5f4848d1084b"/>
+            <ukm:OfficialJournal Value="JOL_2007_112_R_0067_01"/>
+            <ukm:CELEX Value="32007D0257"/>
+            <ukm:ELI Value="dec:2007:257:oj"/>
+         </ukm:EURLexIdentifiers><ukm:EnactmentDate Date="2006-12-20"/><ukm:EURLexModified Date="2019-09-12T17:12:55Z"/><ukm:EURLexExtracted Date="2019-09-12T18:57:21Z"/><ukm:XMLGenerated Date="2020-12-10T20:33:39Z"/><ukm:XMLImported Date="2020-12-10T23:11:06Z"/><ukm:Treaty Title="Treaty establishing the European Community (consolidated version 1992)" Code="TEC_1992"/><ukm:CreatedBy Label="European Commission" URI="http://publications.europa.eu/resource/authority/corporate-body/COM"/><ukm:Subject Scheme="SubjectMatter" Label="Competition" URI="http://publications.europa.eu/resource/authority/fd_070/CONC"/><ukm:Subject Scheme="SubjectMatter" Label="State aids" URI="http://publications.europa.eu/resource/authority/fd_070/AIDE"/><ukm:Subject Scheme="EuroVoc" Label="tax debt write-off" URI="http://eurovoc.europa.eu/6736"/><ukm:Subject Scheme="EuroVoc" Label="arms industry" URI="http://eurovoc.europa.eu/1365"/><ukm:Subject Scheme="EuroVoc" Label="aid for restructuring" URI="http://eurovoc.europa.eu/3069"/><ukm:Subject Scheme="EuroVoc" Label="State aid" URI="http://eurovoc.europa.eu/889"/><ukm:Subject Scheme="EuroVoc" Label="control of State aid" URI="http://eurovoc.europa.eu/5541"/><ukm:Subject Scheme="DirectoryCode" Label="State aids and other subsidies" URI="http://publications.europa.eu/resource/authority/fd_555/0860"/><ukm:Subject Scheme="DirectoryCode" Label="Competition policy" URI="http://publications.europa.eu/resource/authority/fd_555/08"/><ukm:Subject Scheme="EuroVoc" Label="Poland" URI="http://eurovoc.europa.eu/2543"/><ukm:EURLexMetadata>
+            <WORK xmlns="">
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/cellar/2bd09997-13b1-4cb0-9c16-5f4848d1084b</VALUE>
+                  <IDENTIFIER>2bd09997-13b1-4cb0-9c16-5f4848d1084b</IDENTIFIER>
+                  <TYPE>cellar</TYPE>
+               </URI>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/oj/JOL_2007_112_R_0067_01</VALUE>
+                     <IDENTIFIER>JOL_2007_112_R_0067_01</IDENTIFIER>
+                     <TYPE>oj</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/celex/32007D0257</VALUE>
+                     <IDENTIFIER>32007D0257</IDENTIFIER>
+                     <TYPE>celex</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/eli/dec/2007/257/oj</VALUE>
+                     <IDENTIFIER>dec:2007:257:oj</IDENTIFIER>
+                     <TYPE>eli</TYPE>
+                  </URI>
+               </SAMEAS>
+               <WORK_CITES_WORK type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/73cb55dd-b570-4f0e-a5a1-9e5872977ba2</VALUE>
+                     <IDENTIFIER>73cb55dd-b570-4f0e-a5a1-9e5872977ba2</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/52006XC0210%2804%29</VALUE>
+                        <IDENTIFIER>52006XC0210(04)</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2006_034_R_0005_01</VALUE>
+                        <IDENTIFIER>JOC_2006_034_R_0005_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </WORK_CITES_WORK>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/CONC</VALUE>
+                        <IDENTIFIER>CONC</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>CONC</OP-CODE>
+                     <IDENTIFIER>CONC</IDENTIFIER>
+                     <PREFLABEL>Competition</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_070/AIDE</VALUE>
+                        <IDENTIFIER>AIDE</IDENTIFIER>
+                        <TYPE>fd_070</TYPE>
+                     </URI>
+                     <OP-CODE>AIDE</OP-CODE>
+                     <IDENTIFIER>AIDE</IDENTIFIER>
+                     <PREFLABEL>State aids</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER_1>
+               </RESOURCE_LEGAL_IS_ABOUT_SUBJECT-MATTER>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/2543</VALUE>
+                     <IDENTIFIER>2543</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>2543</IDENTIFIER>
+                  <PREFLABEL>Poland</PREFLABEL>
+                  <ALTLABEL>Republic of Poland</ALTLABEL>
+               </IS_ABOUT>
+               <WORK_CITES_WORK type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/b52288c9-e969-4b0a-887e-246d7e37592d</VALUE>
+                     <IDENTIFIER>b52288c9-e969-4b0a-887e-246d7e37592d</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/ecli/ECLI%3AEU%3AC%3A2003%3A491</VALUE>
+                        <IDENTIFIER>ECLI:EU:C:2003:491</IDENTIFIER>
+                        <TYPE>ecli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/62001CJ0109</VALUE>
+                        <IDENTIFIER>62001CJ0109</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </WORK_CITES_WORK>
+               <IDENTIFIER type="data">
+                  <VALUE>celex:32007D0257</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_REPERTOIRE type="data">
+                  <VALUE>REP</VALUE>
+               </RESOURCE_LEGAL_REPERTOIRE>
+               <IDENTIFIER type="data">
+                  <VALUE>32007D0257</VALUE>
+               </IDENTIFIER>
+               <LASTMODIFICATIONDATE type="date">
+                  <VALUE>2019-09-12T19:12:55.621+02:00</VALUE>
+                  <YEAR>2019</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>12</DAY>
+               </LASTMODIFICATIONDATE>
+               <ID_SECTOR type="data">
+                  <VALUE>3</VALUE>
+               </ID_SECTOR>
+               <DATE type="date">
+                  <VALUE>2007-04-30</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>30</DAY>
+               </DATE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/6736</VALUE>
+                        <IDENTIFIER>6736</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>6736</IDENTIFIER>
+                     <PREFLABEL>tax debt write-off</PREFLABEL>
+                     <ALTLABEL>writing off of tax debt</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2504</VALUE>
+                        <IDENTIFIER>2504</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2504</IDENTIFIER>
+                     <PREFLABEL>fiscal policy</PREFLABEL>
+                     <ALTLABEL>tax policy</ALTLABEL>
+                     <ALTLABEL>taxation policy</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100148</VALUE>
+                        <IDENTIFIER>100148</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>24</IDENTIFIER>
+                     <PREFLABEL>24 FINANCE</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100206</VALUE>
+                        <IDENTIFIER>100206</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2446</IDENTIFIER>
+                     <PREFLABEL>2446 taxation</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <WORK_DATE_DOCUMENT type="date">
+                  <VALUE>2006-12-20</VALUE>
+                  <YEAR>2006</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>20</DAY>
+               </WORK_DATE_DOCUMENT>
+               <DATE type="date">
+                  <VALUE>2006-12-20</VALUE>
+                  <YEAR>2006</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>20</DAY>
+               </DATE>
+               <DATE_CREATION_LEGACY type="date">
+                  <VALUE>2007-05-02</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>02</DAY>
+               </DATE_CREATION_LEGACY>
+               <RESOURCE_LEGAL_IN-FORCE type="data">
+                  <VALUE>true</VALUE>
+               </RESOURCE_LEGAL_IN-FORCE>
+               <CREATED_BY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+                     <IDENTIFIER>COM</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>COM</OP-CODE>
+                  <IDENTIFIER>COM</IDENTIFIER>
+                  <PREFLABEL>European Commission</PREFLABEL>
+                  <ALTLABEL>EC</ALTLABEL>
+                  <ALTLABEL>Commission of the European Communities</ALTLABEL>
+                  <ALTLABEL>European Commission</ALTLABEL>
+                  <ALTLABEL>Commission</ALTLABEL>
+               </CREATED_BY>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/5541</VALUE>
+                     <IDENTIFIER>5541</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>5541</IDENTIFIER>
+                  <PREFLABEL>control of State aid</PREFLABEL>
+                  <ALTLABEL>notification of State aid</ALTLABEL>
+               </IS_ABOUT>
+               <BASED_ON type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/61ea79ff-ee2c-4c1e-9f0a-5e4b628b1303</VALUE>
+                     <IDENTIFIER>61ea79ff-ee2c-4c1e-9f0a-5e4b628b1303</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002E088</VALUE>
+                        <IDENTIFIER>12002E088</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/treaty/tec_2002/art_88/oj</VALUE>
+                        <IDENTIFIER>treaty:tec_2002:art_88:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </BASED_ON>
+               <BASED_ON type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/c692168c-a25b-4a3c-aade-ca872bb93f69</VALUE>
+                     <IDENTIFIER>c692168c-a25b-4a3c-aade-ca872bb93f69</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1994_001_R_0003_01</VALUE>
+                        <IDENTIFIER>JOL_1994_001_R_0003_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/21994A0103%2801%29</VALUE>
+                        <IDENTIFIER>21994A0103(01)</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </BASED_ON>
+               <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/JO</VALUE>
+                     <IDENTIFIER>JO</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>JO</OP-CODE>
+                  <IDENTIFIER>JO</IDENTIFIER>
+                  <PREFLABEL>JO</PREFLABEL>
+               </WORK_PART_OF_COLLECTION_DOCUMENT>
+               <IDENTIFIER type="data">
+                  <VALUE>oj:JOL_2007_112_R_0067_01</VALUE>
+               </IDENTIFIER>
+               <ELI type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2007/257/oj</VALUE>
+               </ELI>
+               <RESOURCE_LEGAL_COMMENT_INTERNAL type="data">
+                  <VALUE>MAN2</VALUE>
+               </RESOURCE_LEGAL_COMMENT_INTERNAL>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/3069</VALUE>
+                     <IDENTIFIER>3069</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>3069</IDENTIFIER>
+                  <PREFLABEL>aid for restructuring</PREFLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/d507dada-a211-483d-b113-2c39bf11ebc5</VALUE>
+                     <IDENTIFIER>d507dada-a211-483d-b113-2c39bf11ebc5</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_2007_112_R</VALUE>
+                        <IDENTIFIER>JOL_2007_112_R</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </RESOURCE_LEGAL_PUBLISHED_IN_OFFICIAL-JOURNAL>
+               <LEGISLATION_SECONDARY_DATE_NOTIFICATION type="date">
+                  <VALUE>2007-04-30</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>30</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{titleAndReference.draft.disclaimer.new|http://publications.europa.eu/resource/authority/fd_365/titleAndReference.draft.disclaimer.new}</COMMENT_ON_DATE>
+                  </ANNOTATION>
+               </LEGISLATION_SECONDARY_DATE_NOTIFICATION>
+               <RESOURCE_LEGAL_INFORMATION_MISCELLANEOUS type="data">
+                  <VALUE>{P/EEE|http://publications.europa.eu/resource/authority/fd_400/P%2FEEE}</VALUE>
+               </RESOURCE_LEGAL_INFORMATION_MISCELLANEOUS>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/1365</VALUE>
+                     <IDENTIFIER>1365</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>1365</IDENTIFIER>
+                  <PREFLABEL>arms industry</PREFLABEL>
+               </IS_ABOUT>
+               <BASED_ON type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/treaty/TEC_1992</VALUE>
+                     <IDENTIFIER>TEC_1992</IDENTIFIER>
+                     <TYPE>treaty</TYPE>
+                  </URI>
+                  <OP-CODE>TEC_1992</OP-CODE>
+                  <IDENTIFIER>TEC_1992</IDENTIFIER>
+                  <PREFLABEL>Treaty establishing the European Community (consolidated version 1992)</PREFLABEL>
+                  <ALTLABEL>TEC (1992)</ALTLABEL>
+                  <ALTLABEL>Consolidated version of the Treaty establishing the European Community (1992)</ALTLABEL>
+               </BASED_ON>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/889</VALUE>
+                     <IDENTIFIER>889</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>889</IDENTIFIER>
+                  <PREFLABEL>State aid</PREFLABEL>
+                  <ALTLABEL>national aid</ALTLABEL>
+                  <ALTLABEL>national subsidy</ALTLABEL>
+                  <ALTLABEL>public aid</ALTLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_TYPE type="data">
+                  <VALUE>D</VALUE>
+               </RESOURCE_LEGAL_TYPE>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/1365</VALUE>
+                        <IDENTIFIER>1365</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1365</IDENTIFIER>
+                     <PREFLABEL>arms industry</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3451</VALUE>
+                        <IDENTIFIER>3451</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3451</IDENTIFIER>
+                     <PREFLABEL>arms policy</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100143</VALUE>
+                        <IDENTIFIER>100143</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>08</IDENTIFIER>
+                     <PREFLABEL>08 INTERNATIONAL RELATIONS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100173</VALUE>
+                        <IDENTIFIER>100173</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>0821</IDENTIFIER>
+                     <PREFLABEL>0821 defence</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/POL</VALUE>
+                     <IDENTIFIER>POL</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>POL</OP-CODE>
+                  <IDENTIFIER>POL</IDENTIFIER>
+                  <PREFLABEL>Polish</PREFLABEL>
+               </RESOURCE_LEGAL_USES_ORIGINALLY_LANGUAGE>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_555/0860</VALUE>
+                     <IDENTIFIER>0860</IDENTIFIER>
+                     <TYPE>fd_555</TYPE>
+                  </URI>
+                  <OP-CODE>0860</OP-CODE>
+                  <IDENTIFIER>0860</IDENTIFIER>
+                  <PREFLABEL>State aids and other subsidies</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/3069</VALUE>
+                        <IDENTIFIER>3069</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>3069</IDENTIFIER>
+                     <PREFLABEL>aid for restructuring</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/712</VALUE>
+                        <IDENTIFIER>712</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>712</IDENTIFIER>
+                     <PREFLABEL>economic support</PREFLABEL>
+                     <ALTLABEL>aid</ALTLABEL>
+                     <ALTLABEL>subvention</ALTLABEL>
+                     <ALTLABEL>granting of aid</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100146</VALUE>
+                        <IDENTIFIER>100146</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>16</IDENTIFIER>
+                     <PREFLABEL>16 ECONOMICS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100185</VALUE>
+                        <IDENTIFIER>100185</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1606</IDENTIFIER>
+                     <PREFLABEL>1606 economic policy</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE type="date">
+                  <VALUE>2007-04-30</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>30</DAY>
+                  <ANNOTATION>
+                     <COMMENT_ON_DATE>{DATNOT|http://publications.europa.eu/resource/authority/fd_335/DATNOT}</COMMENT_ON_DATE>
+                     <TYPE_OF_DATE>{PE|http://publications.europa.eu/resource/authority/fd_335/PE}</TYPE_OF_DATE>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_DATE_ENTRY-INTO-FORCE>
+               <RESOURCE_LEGAL_NUMBER_NATURAL type="data">
+                  <VALUE>257</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_070/CONC</VALUE>
+                     <IDENTIFIER>CONC</IDENTIFIER>
+                     <TYPE>fd_070</TYPE>
+                  </URI>
+                  <OP-CODE>CONC</OP-CODE>
+                  <IDENTIFIER>CONC</IDENTIFIER>
+                  <PREFLABEL>Competition</PREFLABEL>
+               </IS_ABOUT>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/fd_070/AIDE</VALUE>
+                     <IDENTIFIER>AIDE</IDENTIFIER>
+                     <TYPE>fd_070</TYPE>
+                  </URI>
+                  <OP-CODE>AIDE</OP-CODE>
+                  <IDENTIFIER>AIDE</IDENTIFIER>
+                  <PREFLABEL>State aids</PREFLABEL>
+               </IS_ABOUT>
+               <WORK_TABLE-OF-CONTENTS type="data">
+                  <VALUE>
+         &lt;table-of-contents&gt;
+            &lt;p&gt;0067 - 0076&lt;/p&gt;
+         &lt;/table-of-contents&gt;
+      </VALUE>
+               </WORK_TABLE-OF-CONTENTS>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/889</VALUE>
+                        <IDENTIFIER>889</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>889</IDENTIFIER>
+                     <PREFLABEL>State aid</PREFLABEL>
+                     <ALTLABEL>national aid</ALTLABEL>
+                     <ALTLABEL>national subsidy</ALTLABEL>
+                     <ALTLABEL>public aid</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/712</VALUE>
+                        <IDENTIFIER>712</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>712</IDENTIFIER>
+                     <PREFLABEL>economic support</PREFLABEL>
+                     <ALTLABEL>aid</ALTLABEL>
+                     <ALTLABEL>subvention</ALTLABEL>
+                     <ALTLABEL>granting of aid</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100146</VALUE>
+                        <IDENTIFIER>100146</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>16</IDENTIFIER>
+                     <PREFLABEL>16 ECONOMICS</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100185</VALUE>
+                        <IDENTIFIER>100185</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>1606</IDENTIFIER>
+                     <PREFLABEL>1606 economic policy</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_DATE_END-OF-VALIDITY type="date">
+                  <VALUE>9999-12-31</VALUE>
+                  <YEAR>9999</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>31</DAY>
+               </RESOURCE_LEGAL_DATE_END-OF-VALIDITY>
+               <WORK_PART_OF_COLLECTION_DOCUMENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/document-collection/CELEX</VALUE>
+                     <IDENTIFIER>CELEX</IDENTIFIER>
+                     <TYPE>document-collection</TYPE>
+                  </URI>
+                  <OP-CODE>CELEX</OP-CODE>
+                  <IDENTIFIER>CELEX</IDENTIFIER>
+                  <PREFLABEL>CELEX</PREFLABEL>
+               </WORK_PART_OF_COLLECTION_DOCUMENT>
+               <ID_CELEX type="data">
+                  <VALUE>32007D0257</VALUE>
+               </ID_CELEX>
+               <WORK_HAS_RESOURCE-TYPE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/resource-type/DEC_ENTSCHEID</VALUE>
+                     <IDENTIFIER>DEC_ENTSCHEID</IDENTIFIER>
+                     <TYPE>resource-type</TYPE>
+                  </URI>
+                  <OP-CODE>DEC_ENTSCHEID</OP-CODE>
+                  <IDENTIFIER>DEC_ENTSCHEID</IDENTIFIER>
+                  <PREFLABEL>Decision</PREFLABEL>
+               </WORK_HAS_RESOURCE-TYPE>
+               <IDENTIFIER type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2007/257/oj</VALUE>
+               </IDENTIFIER>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>oj:JOL_2007_112_R_0067_01</VALUE>
+               </WORK_ID_DOCUMENT>
+               <DATE_DOCUMENT type="date">
+                  <VALUE>2006-12-20</VALUE>
+                  <YEAR>2006</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>20</DAY>
+               </DATE_DOCUMENT>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5541</VALUE>
+                        <IDENTIFIER>5541</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5541</IDENTIFIER>
+                     <PREFLABEL>control of State aid</PREFLABEL>
+                     <ALTLABEL>notification of State aid</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/539</VALUE>
+                        <IDENTIFIER>539</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>539</IDENTIFIER>
+                     <PREFLABEL>competition law</PREFLABEL>
+                     <ALTLABEL>competition regulations</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100152</VALUE>
+                        <IDENTIFIER>100152</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>40</IDENTIFIER>
+                     <PREFLABEL>40 BUSINESS AND COMPETITION</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100231</VALUE>
+                        <IDENTIFIER>100231</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>4031</IDENTIFIER>
+                     <PREFLABEL>4031 competition</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE type="concept_level">
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/0860</VALUE>
+                        <IDENTIFIER>0860</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>0860</OP-CODE>
+                     <IDENTIFIER>0860</IDENTIFIER>
+                     <PREFLABEL>State aids and other subsidies</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_2>
+                  <RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1 type="concept">
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/authority/fd_555/08</VALUE>
+                        <IDENTIFIER>08</IDENTIFIER>
+                        <TYPE>fd_555</TYPE>
+                     </URI>
+                     <OP-CODE>08</OP-CODE>
+                     <IDENTIFIER>08</IDENTIFIER>
+                     <PREFLABEL>Competition policy</PREFLABEL>
+                  </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE_1>
+               </RESOURCE_LEGAL_IS_ABOUT_CONCEPT_DIRECTORY-CODE>
+               <RESOURCE_LEGAL_NUMBER_NATURAL_CELEX type="data">
+                  <VALUE>0257</VALUE>
+               </RESOURCE_LEGAL_NUMBER_NATURAL_CELEX>
+               <DATE type="date">
+                  <VALUE>2007-05-02</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>05</MONTH>
+                  <DAY>02</DAY>
+               </DATE>
+               <WORK_CREATED_BY_AGENT type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/corporate-body/COM</VALUE>
+                     <IDENTIFIER>COM</IDENTIFIER>
+                     <TYPE>corporate-body</TYPE>
+                  </URI>
+                  <OP-CODE>COM</OP-CODE>
+                  <IDENTIFIER>COM</IDENTIFIER>
+                  <PREFLABEL>European Commission</PREFLABEL>
+                  <ALTLABEL>EC</ALTLABEL>
+                  <ALTLABEL>Commission of the European Communities</ALTLABEL>
+                  <ALTLABEL>European Commission</ALTLABEL>
+                  <ALTLABEL>Commission</ALTLABEL>
+               </WORK_CREATED_BY_AGENT>
+               <RESOURCE_LEGAL_ADDRESSES_COUNTRY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/country/POL</VALUE>
+                     <IDENTIFIER>POL</IDENTIFIER>
+                     <TYPE>country</TYPE>
+                  </URI>
+                  <OP-CODE>POL</OP-CODE>
+                  <IDENTIFIER>POL</IDENTIFIER>
+                  <PREFLABEL>Poland</PREFLABEL>
+                  <ALTLABEL>Republic of Poland</ALTLABEL>
+                  <ALTLABEL>People's Republic of Poland</ALTLABEL>
+                  <ALTLABEL>Polish</ALTLABEL>
+                  <ALTLABEL>Poland</ALTLABEL>
+               </RESOURCE_LEGAL_ADDRESSES_COUNTRY>
+               <IDENTIFIER type="data">
+                  <VALUE>563240</VALUE>
+               </IDENTIFIER>
+               <RESOURCE_LEGAL_ELI type="data">
+                  <VALUE>http://data.europa.eu/eli/dec/2007/257/oj</VALUE>
+               </RESOURCE_LEGAL_ELI>
+               <RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/treaty/TEC_1992</VALUE>
+                     <IDENTIFIER>TEC_1992</IDENTIFIER>
+                     <TYPE>treaty</TYPE>
+                  </URI>
+                  <OP-CODE>TEC_1992</OP-CODE>
+                  <IDENTIFIER>TEC_1992</IDENTIFIER>
+                  <PREFLABEL>Treaty establishing the European Community (consolidated version 1992)</PREFLABEL>
+                  <ALTLABEL>TEC (1992)</ALTLABEL>
+                  <ALTLABEL>Consolidated version of the Treaty establishing the European Community (1992)</ALTLABEL>
+               </RESOURCE_LEGAL_BASED_ON_CONCEPT_TREATY>
+               <IS_ABOUT type="concept">
+                  <URI>
+                     <VALUE>http://eurovoc.europa.eu/6736</VALUE>
+                     <IDENTIFIER>6736</IDENTIFIER>
+                     <TYPE>EUROVOC</TYPE>
+                  </URI>
+                  <IDENTIFIER>6736</IDENTIFIER>
+                  <PREFLABEL>tax debt write-off</PREFLABEL>
+                  <ALTLABEL>writing off of tax debt</ALTLABEL>
+               </IS_ABOUT>
+               <RESOURCE_LEGAL_ID_CELEX type="data">
+                  <VALUE>32007D0257</VALUE>
+               </RESOURCE_LEGAL_ID_CELEX>
+               <DATE type="date">
+                  <VALUE>9999-12-31</VALUE>
+                  <YEAR>9999</YEAR>
+                  <MONTH>12</MONTH>
+                  <DAY>31</DAY>
+               </DATE>
+               <WORK_CITES_WORK type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/c769f906-6eca-49d9-b63a-dcaf2d7ef280</VALUE>
+                     <IDENTIFIER>c769f906-6eca-49d9-b63a-dcaf2d7ef280</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_1999_288_R_0002_01</VALUE>
+                        <IDENTIFIER>JOC_1999_288_R_0002_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/31999Y1009%2801%29</VALUE>
+                        <IDENTIFIER>31999Y1009(01)</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </WORK_CITES_WORK>
+               <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/c692168c-a25b-4a3c-aade-ca872bb93f69</VALUE>
+                     <IDENTIFIER>c692168c-a25b-4a3c-aade-ca872bb93f69</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOL_1994_001_R_0003_01</VALUE>
+                        <IDENTIFIER>JOL_1994_001_R_0003_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/21994A0103%2801%29</VALUE>
+                        <IDENTIFIER>21994A0103(01)</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <PARAGRAPH>1</PARAGRAPH>
+                     <ARTICLE>62</ARTICLE>
+                     <COMMENT_ON_LEGAL_BASIS>A62P1PTA)</COMMENT_ON_LEGAL_BASIS>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:03/11/2014 11:31:33</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+               <RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/61ea79ff-ee2c-4c1e-9f0a-5e4b628b1303</VALUE>
+                     <IDENTIFIER>61ea79ff-ee2c-4c1e-9f0a-5e4b628b1303</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/12002E088</VALUE>
+                        <IDENTIFIER>12002E088</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/eli/treaty/tec_2002/art_88/oj</VALUE>
+                        <IDENTIFIER>treaty:tec_2002:art_88:oj</IDENTIFIER>
+                        <TYPE>eli</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <ANNOTATION>
+                     <SUBPARAGRAPH>1</SUBPARAGRAPH>
+                     <PARAGRAPH>2</PARAGRAPH>
+                     <COMMENT_ON_LEGAL_BASIS>P2L1</COMMENT_ON_LEGAL_BASIS>
+                     <BUILD_INFO>cdm:CDM_2.1.7  tdm:1523  xslt:3945 saxon:9.0.0.1J JVM:1.6.0_29 metaconvJar:1.2.0 builddate:03/11/2014 11:31:33</BUILD_INFO>
+                  </ANNOTATION>
+               </RESOURCE_LEGAL_BASED_ON_RESOURCE_LEGAL>
+               <WORK_CITES_WORK type="link">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/cellar/9fcae5cb-7e2f-4e5d-9ea6-6b1e3b07c634</VALUE>
+                     <IDENTIFIER>9fcae5cb-7e2f-4e5d-9ea6-6b1e3b07c634</IDENTIFIER>
+                     <TYPE>cellar</TYPE>
+                  </URI>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/oj/JOC_2004_244_R_0002_01</VALUE>
+                        <IDENTIFIER>JOC_2004_244_R_0002_01</IDENTIFIER>
+                        <TYPE>oj</TYPE>
+                     </URI>
+                  </SAMEAS>
+                  <SAMEAS>
+                     <URI>
+                        <VALUE>http://publications.europa.eu/resource/celex/52004XC1001%2801%29</VALUE>
+                        <IDENTIFIER>52004XC1001(01)</IDENTIFIER>
+                        <TYPE>celex</TYPE>
+                     </URI>
+                  </SAMEAS>
+               </WORK_CITES_WORK>
+               <DATE_NOTIFICATION type="date">
+                  <VALUE>2007-04-30</VALUE>
+                  <YEAR>2007</YEAR>
+                  <MONTH>04</MONTH>
+                  <DAY>30</DAY>
+               </DATE_NOTIFICATION>
+               <WORK_IS_ABOUT_CONCEPT_EUROVOC type="concept_facet">
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2543</VALUE>
+                        <IDENTIFIER>2543</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2543</IDENTIFIER>
+                     <PREFLABEL>Poland</PREFLABEL>
+                     <ALTLABEL>Republic of Poland</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_CONCEPT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5087</VALUE>
+                        <IDENTIFIER>5087</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5087</IDENTIFIER>
+                     <PREFLABEL>Comecon countries</PREFLABEL>
+                     <ALTLABEL>CMEA countries</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5781</VALUE>
+                        <IDENTIFIER>5781</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5781</IDENTIFIER>
+                     <PREFLABEL>Central and Eastern European Countries</PREFLABEL>
+                     <ALTLABEL>CEEC</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5655</VALUE>
+                        <IDENTIFIER>5655</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5655</IDENTIFIER>
+                     <PREFLABEL>Visegrad countries</PREFLABEL>
+                     <ALTLABEL>V4</ALTLABEL>
+                     <ALTLABEL>Visegrad Four</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/914</VALUE>
+                        <IDENTIFIER>914</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>914</IDENTIFIER>
+                     <PREFLABEL>Central and Eastern Europe</PREFLABEL>
+                     <ALTLABEL>CEE</ALTLABEL>
+                     <ALTLABEL>Eastern Europe</ALTLABEL>
+                     <ALTLABEL>Central Europe</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/5283</VALUE>
+                        <IDENTIFIER>5283</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>5283</IDENTIFIER>
+                     <PREFLABEL>EU Member State</PREFLABEL>
+                     <ALTLABEL>EU country</ALTLABEL>
+                     <ALTLABEL>EC country</ALTLABEL>
+                     <ALTLABEL>European Community country</ALTLABEL>
+                     <ALTLABEL>European Union country</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/2200</VALUE>
+                        <IDENTIFIER>2200</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>2200</IDENTIFIER>
+                     <PREFLABEL>NATO countries</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_TT type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/122</VALUE>
+                        <IDENTIFIER>122</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>122</IDENTIFIER>
+                     <PREFLABEL>Council of Europe countries</PREFLABEL>
+                     <ALTLABEL>Countries of the Council of Europe</ALTLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_TT>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100161</VALUE>
+                        <IDENTIFIER>100161</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>72</IDENTIFIER>
+                     <PREFLABEL>72 GEOGRAPHY</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_DOM>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100282</VALUE>
+                        <IDENTIFIER>100282</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>7231</IDENTIFIER>
+                     <PREFLABEL>7231 economic geography</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100283</VALUE>
+                        <IDENTIFIER>100283</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>7236</IDENTIFIER>
+                     <PREFLABEL>7236 political geography</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+                  <WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH type="concept">
+                     <URI>
+                        <VALUE>http://eurovoc.europa.eu/100277</VALUE>
+                        <IDENTIFIER>100277</IDENTIFIER>
+                        <TYPE>EUROVOC</TYPE>
+                     </URI>
+                     <IDENTIFIER>7206</IDENTIFIER>
+                     <PREFLABEL>7206 Europe</PREFLABEL>
+                  </WORK_IS_ABOUT_CONCEPT_EUROVOC_MTH>
+               </WORK_IS_ABOUT_CONCEPT_EUROVOC>
+               <CREATIONDATE type="date">
+                  <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+                  <YEAR>1001</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>01</DAY>
+               </CREATIONDATE>
+               <WORK_ID_DOCUMENT type="data">
+                  <VALUE>celex:32007D0257</VALUE>
+               </WORK_ID_DOCUMENT>
+               <YEAR type="data">
+                  <VALUE>2007</VALUE>
+               </YEAR>
+               <RESOURCE_LEGAL_YEAR type="data">
+                  <VALUE>2007</VALUE>
+               </RESOURCE_LEGAL_YEAR>
+               <TYPE>D</TYPE>
+               <TYPE>cdm:work</TYPE>
+               <TYPE>cdm:decision</TYPE>
+               <TYPE>cdm:legislation_secondary</TYPE>
+               <TYPE>cdm:resource_legal</TYPE>
+            </WORK>
+            <EXPRESSION xmlns="">
+               <URI>
+                  <VALUE>http://publications.europa.eu/resource/cellar/2bd09997-13b1-4cb0-9c16-5f4848d1084b.0006</VALUE>
+                  <IDENTIFIER>2bd09997-13b1-4cb0-9c16-5f4848d1084b.0006</IDENTIFIER>
+                  <TYPE>cellar</TYPE>
+               </URI>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/oj/JOL_2007_112_R_0067_01.ENG</VALUE>
+                     <IDENTIFIER>JOL_2007_112_R_0067_01.ENG</IDENTIFIER>
+                     <TYPE>oj</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/uriserv/OJ.L_.2007.112.01.0067.01.ENG</VALUE>
+                     <IDENTIFIER>OJ.L_.2007.112.01.0067.01.ENG</IDENTIFIER>
+                     <TYPE>uriserv</TYPE>
+                  </URI>
+               </SAMEAS>
+               <SAMEAS>
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/celex/32007D0257.ENG</VALUE>
+                     <IDENTIFIER>32007D0257.ENG</IDENTIFIER>
+                     <TYPE>celex</TYPE>
+                  </URI>
+               </SAMEAS>
+               <CREATIONDATE type="date">
+                  <VALUE>1001-01-01T00:00:00.000+00:00</VALUE>
+                  <YEAR>1001</YEAR>
+                  <MONTH>01</MONTH>
+                  <DAY>01</DAY>
+               </CREATIONDATE>
+               <EXPRESSION_USES_LANGUAGE type="concept">
+                  <URI>
+                     <VALUE>http://publications.europa.eu/resource/authority/language/ENG</VALUE>
+                     <IDENTIFIER>ENG</IDENTIFIER>
+                     <TYPE>language</TYPE>
+                  </URI>
+                  <OP-CODE>ENG</OP-CODE>
+                  <IDENTIFIER>ENG</IDENTIFIER>
+                  <PREFLABEL>English</PREFLABEL>
+                  <ALTLABEL>English</ALTLABEL>
+               </EXPRESSION_USES_LANGUAGE>
+               <LASTMODIFICATIONDATE type="date">
+                  <VALUE>2014-09-25T11:32:12.422+02:00</VALUE>
+                  <YEAR>2014</YEAR>
+                  <MONTH>09</MONTH>
+                  <DAY>25</DAY>
+               </LASTMODIFICATIONDATE>
+               <LANG type="data">
+                  <VALUE>eng</VALUE>
+               </LANG>
+               <TITLE type="data">
+                  <VALUE>2007/257/EC: Commission Decision of 20 December 2006 on State aid No C 44/05 (ex NN 79/05, ex N 439/04) partially implemented by Poland for Huta Stalowa Wola S.A. (notified under document number C(2006) 6730) (Text with EEA relevance )</VALUE>
+               </TITLE>
+               <EXPRESSION_TITLE type="data">
+                  <VALUE>2007/257/EC: Commission Decision of 20 December 2006 on State aid No C 44/05 (ex NN 79/05, ex N 439/04) partially implemented by Poland for Huta Stalowa Wola S.A. (notified under document number C(2006) 6730) (Text with EEA relevance )</VALUE>
+               </EXPRESSION_TITLE>
+               <TITLE type="data">
+                  <VALUE>CELEX1</VALUE>
+               </TITLE>
+               <LANG type="data">
+                  <VALUE>en</VALUE>
+               </LANG>
+            </EXPRESSION>
+         </ukm:EURLexMetadata></ukm:EUMetadata>
+
+
+
+
+					<ukm:Alternatives><ukm:Alternative URI="http://www.legislation.gov.uk/eudn/2007/257/pdfs/eudn_20070257_adopted_en.pdf" Date="2006-12-20" Size="125194"/> </ukm:Alternatives>
+
+					<ukm:Statistics>
+									<ukm:TotalParagraphs Value="2"/>
+									<ukm:BodyParagraphs Value="2"/>
+									<ukm:ScheduleParagraphs Value="0"/>
+									<ukm:AttachmentParagraphs Value="0"/>
+									<ukm:TotalImages Value="0"/>
+								</ukm:Statistics>
+				</ukm:Metadata><EURetained>
+      <EUPrelims DocumentURI="http://www.legislation.gov.uk/eudn/2007/257/introduction" IdURI="http://www.legislation.gov.uk/id/eudn/2007/257/introduction" RestrictStartDate="2006-12-20" RestrictExtent="E+W+S+N.I.">
+         <MultilineTitle>
+            <Text>
+               <Uppercase>Commission Decision</Uppercase>
+            </Text>
+            <Text>of 20 December 2006</Text>
+            <Text>on State aid No C 44/05 (ex NN 79/05, ex N 439/04) partially implemented by Poland for Huta Stalowa Wola S.A.</Text>
+            <Text>(notified under document number C(2006) 6730)</Text>
+            <Text>(Only the Polish version is authentic)</Text>
+            <Text>(Text with EEA relevance)</Text>
+            <Text>(2007/257/EC)</Text>
+         </MultilineTitle>
+         <EUPreamble>
+            <P>
+               <Text>THE COMMISSION OF THE EUROPEAN COMMUNITIES,</Text>
+            </P>
+            <P>
+               <Text>Having regard to the Treaty establishing the European Community, and in particular the first subparagraph of Article 88(2) thereof,</Text>
+            </P>
+            <P>
+               <Text>Having regard to the Agreement on the European Economic Area, and in particular Article 62(1)(a) thereof,</Text>
+            </P>
+            <P>
+               <Text>Having called on interested parties to submit their comments<FootnoteRef Ref="f00001"/> pursuant to those provisions,</Text>
+            </P>
+            <P>
+               <Text>Whereas:</Text>
+            </P>
+            <Division>
+               <Number>1.</Number>
+               <Title>PROCEDURE</Title>
+               <Division>
+                  <Number>(1)</Number>
+                  <P>
+                     <Text>By letter of 8 October 2004, Poland informed the Commission of restructuring aid granted to Huta Stalowa Wola S.A. (hereinafter referred to as ‘HSW’ or ‘the recipient’) with a view to obtaining legal certainty that the aid was granted before accession and was, as a result, not applicable after accession and that it did not constitute new aid which could be examined by the Commission under Article 88 of the EC Treaty. In the event of the Commission finding that this aid constituted new aid, Poland asked for it to be approved as restructuring aid.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(2)</Number>
+                  <P>
+                     <Text>The Commission requested Poland to provide further information by letters dated 11 November 2004, 1 March 2005, 27 April 2005 and 26 July 2005, to which Poland replied by letters dated 31 January 2005, registered as received on 2 February, 4 April 2005, registered as received on 8 April, 7 June 2005, registered as received on 9 June, and 2 September 2005, registered as received on 6 September.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(3)</Number>
+                  <P>
+                     <Text>In the course of this exchange of correspondence it emerged that some of the notified aid had been put into effect in contravention of Article 88(3) of the EC Treaty. The case was therefore classified as unlawful aid and a new case number was attributed (NN 79/2005).</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(4)</Number>
+                  <P>
+                     <Text>By letter of 23 November 2005, the Commission informed Poland that it had decided to initiate the procedure laid down in Article 88(2) of the EC Treaty in respect of the aid.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(5)</Number>
+                  <P>
+                     <Text>The Commission's decision to initiate the Article 88(2) procedure was published in the <Emphasis>Official Journal of the European Union</Emphasis>.<FootnoteRef Ref="f00002"/> The Commission invited interested parties to submit their comments on the aid.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(6)</Number>
+                  <P>
+                     <Text>The Polish authorities submitted their observations by letter of 7 March 2006, registered as received on 9 March. No comments from third parties have been received.</Text>
+                  </P>
+               </Division>
+            </Division>
+            <Division>
+               <Number>2.</Number>
+               <Title>DETAILED DESCRIPTION OF THE AID</Title>
+               <Division>
+                  <Number>2.1</Number>
+                  <Title>The company</Title>
+                  <Division>
+                     <Number>(7)</Number>
+                     <P>
+                        <Text>HSW, the aid recipient and parent company of the HSW holding company, is based in Stalowa Wola in Podkarpackie province. This region is eligible for aid under Article 87(3)(a) of the EC Treaty. In February 2006 the holding company comprised eight companies in which HSW held at least 51 % of the shares (which it controlled) and ten in which it held less than 51 %. The companies which make up the HSW holding company operate as mutual suppliers of goods and services. Apart from the parent company itself, the companies with the largest stake in the holding company are HSW-Zakład Zespołów Napędowych Sp. z o.o and HSW-Zakład Zespołów Mechanicznych Sp. z o.o. HSW's share of sales to the companies forming part of the holding company as a percentage of its total sales amounts to 20-30 %.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(8)</Number>
+                     <P>
+                        <Text>HSW was set up in 1937 and initially produced guns and stainless steel. Unlike its subsidiary HSW–Zakład Metalurgiczny, it is not a steel producer. In 1991 it was converted into a joint stock company. The State still owns 76 % of the shares and employees hold 9 %. The remainder is accounted for by private and public shareholders none of which has a holding in excess of 5 %. The company manufactures construction equipment and machinery and military equipment (guns, howitzers, etc.).</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(9)</Number>
+                     <P>
+                        <Text>HSW had about 2 400 employees in 2005, down from 3 173 in 2002.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(10)</Number>
+                     <P>
+                        <Text>One of the subsidiaries of HSW is the distribution company Dressta Sp. z o.o. (hereinafter ‘Dressta’). Since September 2006 Dressta has been fully controlled by HWS S.A. In the past, however, 51 % of its shares were owned by Komatsu American International Company USA (‘KAIC’), a competitor of HSW. In 1995 HSW transferred licences and assets pertaining to the sale of its goods on foreign markets to Dressta for a twelve-year period.</Text>
+                     </P>
+                  </Division>
+               </Division>
+               <Division>
+                  <Number>2.2</Number>
+                  <Title>Difficulties faced by the company</Title>
+                  <Division>
+                     <Number>(11)</Number>
+                     <P>
+                        <Text>The recipient started to experience difficulties in 2002 following a decline in turnover from PLN 494,9 million (EUR 130,2 million<FootnoteRef Ref="f00003"/> in 2000 to PLN 352,6 million (EUR 92,7 million), i.e. a fall of 29 %. Its exports decreased from PLN 505 million (EUR 132,8 million) to PLN 279 million (EUR 73,4 million). The decline in turnover on foreign markets was caused mainly by a business slump and by the fact that Dressta, under the influence of its principal shareholder, which was a major competitor of HSW, had significantly reduced sales of HSW goods on the North American market.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(12)</Number>
+                     <P>
+                        <Text>In 2002 the recipient faced operating losses of PLN 44,2 million (EUR 11,6 million) that were due mostly to low utilisation of production capacity. Since most of the sales on foreign markets were effected in US dollars and most of the company's costs were expressed in PLN, the appreciation in the zloty adversely affected sales and the recipient's viability.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(13)</Number>
+                     <P>
+                        <Text>HSW was heavily indebted. Its average level of debt in 2000-02 was PLN 169,1 million (EUR 44,5 million).</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(14)</Number>
+                     <P>
+                        <Text>Nor were the company's operating activities profitable, i.e. losses on sales increased from PLN 6,4 million (EUR 1,68 million) in 2000 to PLN 33,9 million (EUR 8,6 million) in 2002.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(15)</Number>
+                     <P>
+                        <Text>The HSW Capital Group recorded net losses of PLN 137,7 million (EUR 36,2 million) in 2002 and PLN 123,9 million (EUR 32,5 million) in 2003.</Text>
+                     </P>
+                  </Division>
+               </Division>
+               <Division>
+                  <Number>2.3</Number>
+                  <Title>The restructuring operation</Title>
+                  <Division>
+                     <Number>(16)</Number>
+                     <P>
+                        <Text>With a view to addressing these difficulties, the recipient drew up in 2002 a restructuring plan for the period 2003-07. This plan was amended in February 2006.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(17)</Number>
+                     <P>
+                        <Text>One of the restructuring plan's principal measures entailed amending the recipient's organisational structure. The main idea of the restructuring process was to separate the part of HSW directly linked to production from the assets to be restructured. Accordingly, an independent company, HSW-Trading Sp. z o.o. (‘HSW-Trading’) was set up by HSW's majority shareholder, the Treasury. HSW-Trading received a capital injection of PLN 40 million (EUR 10,5 million) from the Treasury; the Polish authorities gave notification of this measure within the framework of the aid granted to HSW (see Table 1).</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(18)</Number>
+                     <P>
+                        <Text>Whereas HSW-Trading was responsible for the production and sales of industrial machinery, logistics management, quality management and supplies of materials for machine production, HSW retained R &amp; D activities, financing of production assets, strategic marketing, sales of spare parts, repairs, and production and sales of military equipment and was responsible for organisational restructuring. In exercising its activities, HSW-Trading leased from HSW assets that were directly related to production. The necessary workforce was also transferred temporarily to HSW-Trading.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(19)</Number>
+                     <P>
+                        <Text>This division was to continue during 2004-05, i.e. throughout HSW's restructuring. HSW-Trading was to merge again with HSW at the end of 2006.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(20)</Number>
+                     <P>
+                        <Text>The plan states that major employment restructuring should be undertaken. HSW plans to employ 2 100 workers by the end of the restructuring exercise in 2007, down from 3 173 at the end of 2002.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(21)</Number>
+                     <P>
+                        <Text>Another area of restructuring was the organisation of a network for distributing building machinery and spare parts on the world market, the aim being to give the recipient access to new markets.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(22)</Number>
+                     <P>
+                        <Text>The restructuring of HSW also entailed selling off its subsidiaries and privatising departments providing services. By 2006 HSW had sold HSW–Zakład Kuźnia Matrycowa Sp. z o.o for PLN […]<FootnoteRef Ref="f00004"/> million (EUR […] million). A private investor was found for two HSW-Zaklad Metalurgiczny subsidiaries (HSW-Walcownia Blach Sp. z o.o. and HSW-Huta Stali Jakosciowych). In total, HSW generated receipts privatisation of PLN 112,2 million (EUR 29,5 million). The sale of two subsidiaries, HSW–Zakład Spreżynownia and HSW–Tlenownia, was to be finalised by 2006.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(23)</Number>
+                     <P>
+                        <Text>Asset restructuring entails reducing annual production capacity from 1 500 to 1 200 items of construction machinery. The size of HSW's assets was deemed clearly excessive in relation to its needs. Since HSW planned to focus mainly on producing construction machinery, a significant number of its assets had to be sold. The actual sale of assets from January 2003 to December 2005 generated revenue of PLN 52,1 million (EUR 13,7 million), which by far exceeded the planned sale, estimated at PLN 10,3 million (EUR 2,7 million). The following assets were sold: some 248,4 hectares of land (including about 153 hectares of woodland); real estate with a usable surface area of about 76 000 m<Superior>2</Superior> and 94 items of machinery and equipment.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(24)</Number>
+                     <Title>Overall restructuring costs, including costs incurred prior to accession, amount to PLN 450,3 million (EUR 118,5 million) and consist of the items indicated in Table 1.</Title>
+                     <P>
+                        <Tabular Orientation="portrait">
+                           <Title>Table 1:</Title>
+                           <Subtitle>Restructuring costs (PLN ‘000)</Subtitle>
+                           <table xmlns="http://www.w3.org/1999/xhtml" cols="2">
+                              <tbody><tr><th>Restructuring measure</th><th>Costs</th></tr><tr><td>Restructuring of civil-law liabilities</td><td>95 648</td></tr><tr><td>Restructuring of public-law liabilities</td><td>113 213</td></tr><tr><td>Organisation of supply and distribution system</td><td>151 241</td></tr><tr><td>Continuity of supply of materials, spare parts and components</td><td>40 000</td></tr><tr><td>Product restructuring</td><td>11 666</td></tr><tr><td>Asset restructuring</td><td>871</td></tr><tr><td>Employment restructuring</td><td>5 170</td></tr><tr><td>Organisational restructuring</td><td>2 013</td></tr><tr><td>Modernisation of production potential</td><td>30 524</td></tr><tr><td>Total</td><td>450 346</td></tr></tbody>
+                           </table>
+                        </Tabular>
+                     </P>
+                  </Division>
+               </Division>
+               <Division>
+                  <Number>2.4</Number>
+                  <Title>The aid measures</Title>
+                  <Division>
+                     <Number>(25)</Number>
+                     <P>
+                        <Text>The granting authorities are the Treasury, the Ministry of Science and Information Technology, tax offices, local authorities, the Social Insurance Fund (ZUS), the State Fund for the Rehabilitation of the Disabled (PFRON), town halls and the Industrial Development Agency.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(26)</Number>
+                     <P>
+                        <Text>Poland has maintained that part of the aid granted to HSW was linked to the need to protect essential national security interests. The aid amounted to some PLN 19 million (EUR 5 million) and was granted both before and after Poland acceded to the European Union. The Polish authorities maintain, with reference to Article 296 of the EC Treaty, that the provisions of that Treaty do not preclude Member States from granting aid deemed necessary to protect essential national security interests.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(27)</Number>
+                     <P>
+                        <Text>The most significant aid measures granted before accession to the non-military part of HSW were two loans from the Industrial Development Agency of PLN 75 million (EUR 19,7 million). Another important aid measure was a capital injection by the Treasury of PLN 40 million (EUR 10,5 million) for the subsidiary HSW–Trading Sp. z o.o.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(28)</Number>
+                     <P>
+                        <Text>An amount of PLN 27,9 million (EUR 7,3 million) in the form of debt write-offs was granted on the basis of the amended State Aid to Enterprises of Special Significance to the Labour Market Act of 30 October 2002 (see Table 4 below). Restructuring under the Act was supervised by the President of the Industrial Development Agency and was based on a so-called restructuring decision within the meaning of Articles 10(1)(4) and (19) of the Act (‘restructuring decision’). The restructuring decision approving the restructuring plan and allowing the restructuring of public-law liabilities was issued on 29 April 2005 and amended on 17 June 2005.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(29)</Number>
+                     <Title>The different measures as originally notified to the Commission are presented in the following table:</Title>
+                     <P>
+                        <Tabular Orientation="portrait">
+                           <Title>Table 2:</Title>
+                           <Subtitle>Planned and granted aid (PLN ‘000), as notified</Subtitle>
+                           <table xmlns="http://www.w3.org/1999/xhtml" cols="4">
+                              <tbody><tr><th/><th>Category of aid</th><th>Nominal amount</th><th>Aid amount</th></tr><tr><td>I.</td><td>Restructuring aid granted before 30 April 2004</td><td>145 785,5</td><td>129 309,1</td></tr><tr><td>II.</td><td>Restructuring aid granted on the basis of the amended State Aid to Enterprises of Special Significance to the Labour Market Act of 30 October 2002</td><td>27 897,1</td><td>19 293,7</td></tr><tr><td>III.</td><td>Restructuring aid to be awarded after 30 April 2004</td><td>43 456,9</td><td>13 562,9</td></tr><tr><td colspan="2">Total</td><td>217 139,5</td><td>162 165,7</td></tr></tbody>
+                           </table>
+                        </Tabular>
+                     </P>
+                  </Division>
+               </Division>
+            </Division>
+            <Division>
+               <Number>3.</Number>
+               <Title>DECISION TO INITIATE PROCEEDINGS UNDER ARTICLE 88(2) OF THE EC TREATY</Title>
+               <Division>
+                  <Number>(30)</Number>
+                  <P>
+                     <Text>The Commission decided to initiate the formal investigation procedure for two reasons.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(31)</Number>
+                  <P>
+                     <Text>First, it doubted that the restructuring aid was compatible with the common market.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(32)</Number>
+                  <P>
+                     <Text>The Commission doubted that the measures provided for in the restructuring plan were sufficient to restore the recipient's long-term viability as the plan seemed to focus on debt servicing and covering operating costs.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(33)</Number>
+                  <P>
+                     <Text>The Commission also expressed doubts as to whether sufficient compensatory measures had been implemented. Whereas, according to the Polish authorities, HSW planned to reduce production capacity by 20 %, the plan provided for capacity utilisation to be increased from 27,7 % in 2002 to 66 % in 2007. The Commission had doubts about the net effect of this operation.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(34)</Number>
+                  <P>
+                     <Text>The Commission also had doubts as to whether the aid was limited to the minimum necessary and whether the recipient's own contribution was significant, given that Poland had not made a clear distinction between what it regarded as the recipient's own contribution to restructuring and what was funded by state aid.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(35)</Number>
+                  <P>
+                     <Text>The Commission also had doubts regarding compliance with the ‘one time, last time’ rule. In fact, a subsidiary of HSW, HSW–Zakład Zespołów Mechanicznych, had received restructuring aid for 2003-07 before Poland had joined the European Union. It was necessary to demonstrate that this aid had had no spillover effects on the parent company, HSW. Poland was also asked to provide the Commission with an assurance that the restructuring aid to HSW, if allowed, would not have any spillover effects on HSW-Zakład Zespołów Mechanicznych.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(36)</Number>
+                  <P>
+                     <Text>The second reason for initiating the formal investigation procedure was that the Commission had doubts as to whether subsidised special military production (guns) had been kept sufficiently separate from civil production of construction machinery. Poland had assured the Commission in letters dated 7 June and 2 September 2005 that cross-subsidisation had been ruled out and the Commission had noted that the ratio of aid allocated to military production/total aid was small in comparison with the ratio of military production to total production. Nevertheless, the Commission asked for more detailed explanations on separate accounting.</Text>
+                  </P>
+               </Division>
+            </Division>
+            <Division>
+               <Number>4.</Number>
+               <Title>COMMENTS FROM POLAND</Title>
+               <Division>
+                  <Number>(37)</Number>
+                  <P>
+                     <Text>First, the Polish authorities disputed the Commission's conclusion in the decision to initiate the formal investigation procedure that no aid had been granted on the basis of the amended State Aid to Enterprises of Special Significance to the Labour Market Act of 30 October 2002 (see Table 2, row II) prior to accession. The Polish authorities repeated their earlier submission that the consent of the recipient's public creditors (so-called administrative promises), not the restructuring decision issued by the President of the Industrial Development Agency, was crucial when it came to granting state aid under the Act. Since HSW's public creditors, whose receivables had been restructured under the Act, had already given their consent regarding HSW before Poland joined the European Union, the Polish authorities maintain that the aid was granted before accession and, as such, its compatibility with the common market does not have to be assessed by the Commission.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(38)</Number>
+                  <Title>Second, the Polish authorities signalled two amendments to the aid as originally notified. The first and most important amendment was that the planned state aid referred to in row III of Table 2 was partially withdrawn and replaced by two measures which, it was claimed, did not constitute state aid. The second amendment was of a factual nature and concerned the precise amount of the three aid measures referred to in Table 3. The following tables list all the aid measures granted or to be granted to HSW throughout the restructuring period, as amended after the decision to initiate the formal investigation procedure.</Title>
+                  <P>
+                     <Tabular Orientation="portrait">
+                        <Title>Table 3:</Title>
+                        <Subtitle>Aid granted before 30 April 2004 (PLN ‘000)</Subtitle>
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="6">
+                           <tbody><tr><th>No</th><th>Assumed date of agreement or decision</th><th>Granting authority</th><th>Form of aid</th><th>Nominal amount</th><th>Aid amount</th></tr><tr><td>1.</td><td>2003-12-12</td><td>Treasury Office in Stalowa Wola</td><td>Write-off of VAT for September 2002</td><td>1 047,5</td><td>1 047,5</td></tr><tr><td>2.</td><td>2003-09-15</td><td>Treasury Office in Stalowa Wola</td><td>Agreement on payment in instalments of VAT for December 2002</td><td>4 769,8</td><td>155,0</td></tr><tr><td>3.</td><td>2003-09-15</td><td>Treasury Office in Stalowa Wola</td><td>Agreement on payment in instalments of VAT for March 2003</td><td>1 771,8</td><td>52,2</td></tr><tr><td>4.</td><td>2003-09-15</td><td>Treasury Office in Stalowa Wola</td><td>Agreement on payment in instalments of VAT for May 2003</td><td>2 175,2</td><td>77,4</td></tr><tr><td>5.</td><td>2003-09-15</td><td>Treasury Office in Stalowa Wola</td><td>Agreement on payment in instalments of PIT for March 2003</td><td>623,3</td><td>16,0</td></tr><tr><td>6.</td><td>2003-09-15</td><td>Treasury Office in Stalowa Wola</td><td>Agreement on payment in instalments of PIT for May 2003</td><td>463,4</td><td>5,0</td></tr><tr><td>7.</td><td>2003-02-04</td><td>Social Insurance Institution (ZUS), Rzeszów branch</td><td>Agreement on payment in instalments of contributions for June-October 2002</td><td>6 252,1</td><td>1 211,6</td></tr><tr><td>8.</td><td>2003-08-28</td><td>Industrial Development Agency</td><td>Loan</td><td>40 000,0</td><td>40 000,0</td></tr><tr><td>9.</td><td>2003-09-15</td><td>Treasury Office in Stalowa Wola</td><td>Agreement on payment in instalments of VAT for June 2002</td><td>696,9</td><td>77,1</td></tr><tr><td>10.</td><td>2003-09-15</td><td>Treasury Office in Stalowa Wola</td><td>Deferral of payment of PIT instalment for July 2002</td><td>183,9</td><td>15,3</td></tr><tr><td>11.</td><td>2003-09-15</td><td>Treasury Office in Stalowa Wola</td><td>Change of payment dates of PIT instalments for August 2002</td><td>211,5</td><td>26,8</td></tr><tr><td>12.</td><td>2003-12-02</td><td>Treasury Office in Stalowa Wola</td><td>Agreement on payment in instalments of VAT for August 2002</td><td>655,5</td><td>49,3</td></tr><tr><td>13.</td><td>2003-09-05</td><td>District Starost Office, Stalowa Wola</td><td>Instalment scheme of payments for perpetual usufruct</td><td>172,7</td><td>8,0</td></tr><tr><td>14.</td><td>2003-03-21</td><td>District Starost Office, Nisko</td><td>Instalment scheme of payments for perpetual usufruct</td><td>20,5</td><td>0,3</td></tr><tr><td>15.</td><td>2004-04-30</td><td>Industrial Development Agency</td><td>Loan</td><td>35 000,0</td><td>35 000,0</td></tr><tr><td>16.</td><td>2004-04-30</td><td>Treasury</td><td>Initial capital increase</td><td>40 000,0</td><td>40 000,0</td></tr><tr><td>17.</td><td>2003-11-07</td><td>Ministry of Science and Information Technology</td><td>Subsidy</td><td>637,0</td><td>465,0</td></tr><tr><td>18.</td><td>2003-05-20</td><td>District Starost Office, Stalowa Wola</td><td>Refund of expenditure</td><td>3,3</td><td>2,4</td></tr><tr><td>19.</td><td>2003-05-20</td><td>District Starost Office, Stalowa Wola</td><td>Refund of expenditure</td><td>3,3</td><td>2,4</td></tr><tr><td>20.</td><td>2002-12-06</td><td>Head of Podkarpackie Province Tax Office, Rzeszów</td><td>Write-off of VAT arrears</td><td>1 210</td><td>1 210</td></tr><tr><td>21.</td><td>2002-12-06</td><td>Stalowa Wola Town Hall</td><td>Write-off of real estate tax arrears</td><td>496,8</td><td>496,8</td></tr><tr><td>22.</td><td>2002-12-11</td><td>Social Insurance Institution (ZUS), Rzeszów branch</td><td>Write-off of unpaid contributions, plus interest</td><td>11 088,1</td><td>11 088,1</td></tr><tr><td colspan="4">Total I</td><td>147 482,6</td><td>131 006,2</td></tr></tbody>
+                        </table>
+                     </Tabular>
+                     <Tabular Orientation="portrait">
+                        <Title>Table 4:</Title>
+                        <Subtitle>Aid granted under the amended State Aid to Enterprises of Special Significance to the Labour Market Act of 30 October 2002 (PLN ‘000)</Subtitle>
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="5">
+                           <tfoot><tr><td colspan="5">
+                                    <Footnote xmlns="http://www.legislation.gov.uk/namespaces/legislation" id="f00005">
+                                       <FootnoteText>
+                                          <Para>
+                                             <Text>The Polish authorities have not provided information on the grant equivalent of the measure. The aid amount was calculated on the basis that 30,84 % of the restructured debt under the amended State Aid to Enterprises of Special Significance to the Labour Market Act of 30 October 2002 would be repaid to creditors using income obtained from the sale of the beneficiary's assets in the proceedings provided for in that Act. The figure of 30,84 % is used in the amended restructuring decision of 17 June 2005. The amount written off would then amount to 69,16 % of the total debts. The grant equivalent amounts to 100 % of the debts written off.</Text>
+                                          </Para>
+                                       </FootnoteText>
+                                    </Footnote>
+                                 </td></tr></tfoot>
+                           <tbody><tr><th>No</th><th>Date of transfer of debts and receivables to the operator</th><th>Type of restructured receivables</th><th>Nominal amount</th><th>Aid amount</th></tr><tr><td>23.</td><td>2005-06-20</td><td>Restructuring of VAT and PIT</td><td>10 696,6</td><td>Aid amount not indicated by the Polish authorities</td></tr><tr><td>24.</td><td>2005-06-20</td><td>Restructuring of environmental taxes, plus interest</td><td>5 826,5</td><td>’</td></tr><tr><td>25.</td><td>2005-06-20</td><td>Restructuring of Social Insurance (ZUS) contributions, plus interest and extension fees</td><td>7 333,2</td><td>’</td></tr><tr><td>26.</td><td>2005-06-20</td><td>Restructuring of payments to the State Fund for the Rehabilitation of the Disabled. (PFRON), plus interest</td><td>996,5</td><td>’</td></tr><tr><td>27.</td><td>2005-06-20</td><td>Restructuring of real estate tax, from September 2002 to June 2003, payable to Stalowa Wola Town Council</td><td>3 044,3</td><td>’</td></tr><tr><td colspan="3">Total 2</td><td>27 897,1</td><td>19 293,7<FootnoteRef xmlns="http://www.legislation.gov.uk/namespaces/legislation" Ref="f00005"/>
+                                 </td></tr></tbody>
+                        </table>
+                     </Tabular>
+                     <Tabular Orientation="portrait">
+                        <Title>Table 5:</Title>
+                        <Subtitle>Aid granted after 30 April 2004 (PLN ‘000)</Subtitle>
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="6">
+                           <tbody><tr><th>No</th><th>Planned date of disbursement of aid</th><th>Granting authority</th><th>Form of aid</th><th>Nominal amount</th><th>Aid amount</th></tr><tr><td>28.</td><td>2004-12-21 — 2005-10-19</td><td>Public bodies</td><td>Deferral of public-law liabilities</td><td>22 094,4</td><td>0,259</td></tr><tr><td>29.</td><td>2005-04-25</td><td>Social Insurance Institution (ZUS), Rzeszów branch</td><td>Deferral of public-law liabilities</td><td>16 386,2</td><td>0,0</td></tr><tr><td colspan="4">Total 3</td><td>38 480,6</td><td>0,259</td></tr></tbody>
+                        </table>
+                     </Tabular>
+                     <Tabular Orientation="portrait">
+                        <Title>Table 6:</Title>
+                        <Subtitle>Aid granted and planned (PLN ‘000), as updated following the comments received from the Polish authorities after the formal investigation procedure was instituted (update of Table 2)</Subtitle>
+                        <table xmlns="http://www.w3.org/1999/xhtml" cols="4">
+                           <tfoot><tr><td colspan="4">
+                                    <Footnote xmlns="http://www.legislation.gov.uk/namespaces/legislation" id="f00006">
+                                       <FootnoteText>
+                                          <Para>
+                                             <Text>Granted after December 2004.</Text>
+                                          </Para>
+                                       </FootnoteText>
+                                    </Footnote>
+                                 </td></tr><tr><td colspan="4">
+                                    <Footnote xmlns="http://www.legislation.gov.uk/namespaces/legislation" id="f00007">
+                                       <FootnoteText>
+                                          <Para>
+                                             <Text>Granted in 2005.</Text>
+                                          </Para>
+                                       </FootnoteText>
+                                    </Footnote>
+                                 </td></tr></tfoot>
+                           <tbody><tr><th/><th>Category of aid</th><th>Nominal amount</th><th>Aid amount</th></tr><tr><td>I.</td><td>Restructuring aid granted before 30 April 2004</td><td>147 482,6</td><td>131 006,2</td></tr><tr><td>II.</td><td>Restructuring aid granted on the basis of the amended State Aid to Enterprises of Special Significance to the Labour Market Act of 30 October 2002</td><td>27 897,1</td><td>19 293,7</td></tr><tr><td>III.</td><td>Deferral of public law liabilities — measures recognised as constituting <Emphasis xmlns="http://www.legislation.gov.uk/namespaces/legislation">de minimis</Emphasis> aid by Poland<FootnoteRef xmlns="http://www.legislation.gov.uk/namespaces/legislation" Ref="f00006"/>
+                                 </td><td>22 094,4</td><td>0,259</td></tr><tr><td>IV.</td><td>Deferral of public-law liabilities by the Social Insurance Institution (ZUS)<FootnoteRef xmlns="http://www.legislation.gov.uk/namespaces/legislation" Ref="f00007"/>
+                                 </td><td>16 386,2</td><td>0,0</td></tr><tr><td colspan="2">Total</td><td>213 860,3</td><td>150 300,2</td></tr></tbody>
+                        </table>
+                     </Tabular>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(39)</Number>
+                  <P>
+                     <Text>With regard to the measures referred to in row III of Table 6, the Polish authorities claimed that the deferral and payment in instalments of public-law liabilities of PLN 22,1 million (EUR 5,8 million) (row II of Table 2) should be treated as <Emphasis>de minimis</Emphasis> aid. Of this amount, PLN 19 million (EUR 5,0 million) has already been granted. The methodology used by the Polish authorities to calculate the aid amount compares the interest rate applied to the deferral with the Commission reference rate. Where the applied interest rate is higher than the reference rate, the Polish authorities concluded that the measure does not constitute aid. According to the Polish authorities, this is the case for the aid referred to in row IV of Table 6.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(40)</Number>
+                  <P>
+                     <Text>Third, regarding the company's viability, the Polish authorities claim that the organisational restructuring proved to be successful; HSW has regained control of HSW-Dressta and will thus be able to expand on the profitable North American market.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(41)</Number>
+                  <P>
+                     <Text>With regard to the requirement to limit distortions of competition, the Polish authorities have maintained that the reduction of production capacity from 1 500 to 1 200 machines was a valid compensatory measure. They also regarded the sale of HSW's subsidiaries as a compensatory measure.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(42)</Number>
+                  <P>
+                     <Text>Regarding the limitation of the aid to the minimum necessary, the Polish authorities have provided various details on the amounts considered as constituting an own contribution.</Text>
+                  </P>
+               </Division>
+               <Division>
+                  <Number>(43)</Number>
+                  <P>
+                     <Text>To conclude, the Polish authorities claim in their observations that no state aid was granted after accession and that none is planned. Should the Commission conclude otherwise, they will provide additional elements to support the conclusion that the state aid is compatible with the common market.</Text>
+                  </P>
+               </Division>
+            </Division>
+            <Division>
+               <Number>5.</Number>
+               <Title>ASSESSMENT OF THE AID</Title>
+               <Division>
+                  <Number>5.1.</Number>
+                  <Title>Competence of the Commission</Title>
+                  <Division>
+                     <Number>(44)</Number>
+                     <P>
+                        <Text>Given that some of the events of relevance to this case took place before Poland acceded to the European Union on 1 May 2004, the Commission first has to determine whether it is competent to act with regard to the aid in question.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(45)</Number>
+                     <P>
+                        <Text>Aid which was implemented before accession and was not applicable after accession cannot be examined by the Commission, either under the so-called interim mechanism procedure, regulated by Annex IV, point 3 of the Accession Treaty, or under the procedures laid down in Article 88 of the EC Treaty. Neither the Accession Treaty nor the EC Treaty requires or empowers the Commission to examine this aid.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(46)</Number>
+                     <P>
+                        <Text>On the other hand, aid implemented after accession would constitute new aid and would fall within the competence of the Commission under the procedure laid down in Article 88. For the purpose of determining the moment when a given aid measure was put into effect, the relevant criterion is the legally binding act by which the competent national authority undertook to grant aid<FootnoteRef Ref="f00008"/>.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(47)</Number>
+                     <P>
+                        <Text>Individual aid is not applicable after accession if the precise economic exposure of the State was known when the aid was granted.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(48)</Number>
+                     <P>
+                        <Text>On the basis of the information provided by Poland, the Commission was able to determine that the aid measures listed in Table 3 above were granted before accession and are not applicable thereafter. The Commission is therefore not empowered to assess their compatibility with the common market. However, they must be taken into account when determining the compatibility of aid granted or to be granted after accession. This aid amounts to PLN 147 million (EUR 38 million).</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(49)</Number>
+                     <P>
+                        <Text>With regard to the aid measures granted under the amended State Aid to Enterprises of Special Significance to the Labour Market Act of 30 October 2002 and listed in Table 4, the Commission's doubts as to the day on which they were granted have not been resolved. In that respect, the Polish authorities have not provided any new arguments in their comments on the decision to initiate the formal investigation procedure. The consent of individual granting authorities to restructuring of their receivables under this Act is necessary but not of itself sufficient for such restructuring to take place. The decisive element of the procedure under the Act is the restructuring decision, which was taken by the President of the IDA on 29 April 2005, i.e. after accession. The Commission therefore takes the view that the aid in question was granted after accession. As such, it is competent to assess the aid's compatibility with the common market. It should be noted that this aid was granted in contravention of the standstill clause in Article 88(3) of the EC Treaty and that it therefore constitutes unlawful aid of PLN 27,897 million (EUR 7,34 million).</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(50)</Number>
+                     <P>
+                        <Text>Finally, with regard to the measures listed in Table 5, if it is determined that they constitute state aid, the Commission is competent to assess their compatibility with the common market as they were clearly extended after accession.</Text>
+                     </P>
+                  </Division>
+               </Division>
+               <Division>
+                  <Number>5.2.</Number>
+                  <Title>State aid within the meaning of Article 87(1) of the EC Treaty</Title>
+                  <Division>
+                     <Number>(51)</Number>
+                     <P>
+                        <Text>Article 87(1) of the EC Treaty stipulates that any aid granted by a Member State or through state resources in any form whatsoever which distorts or threatens to distort competition by favouring certain undertakings or the production of certain goods and affects trade between Member States is incompatible with the common market.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(52)</Number>
+                     <P>
+                        <Text>The Polish authorities have not contested the fact that the measures listed in Tables 3 and 4 constitute state aid.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(53)</Number>
+                     <P>
+                        <Text>As regards the aid in the form of deferrals of HSW's tax and social security liabilities (Table 5), the Polish authorities maintain that it does not constitute state aid as it is <Emphasis>de minimis</Emphasis> aid or its aid component is equal to zero. They therefore base their argument on the calculation of the aid component of individual aid measures.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(54)</Number>
+                     <P>
+                        <Text>The Commission cannot endorse the calculation method used by the Polish authorities because the aid was granted to a company in financial difficulties. The risk of debt rescheduling is higher than for healthy companies, which should be reflected in the interest charged. The reference rate cannot therefore be applied as the benchmark. A calculation method which compares the actual interest rate charged with the reference rate is not appropriate in this case and the Commission therefore cannot accept the argument put forward by the Polish authorities.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(55)</Number>
+                     <P>
+                        <Text>It is established Commission practice and Court of Justice case-law<FootnoteRef Ref="f00009"/> that the aid component in the case of companies in financial difficulties can be equivalent to the nominal amount. The aid measures listed in Table 5 amount to PLN 38,48 million (EUR 10 million).</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>(56)</Number>
+                     <P>
+                        <Text>The Commission concludes that the measures listed in Tables 4 and 5 were financed using state resources. They favour an individual firm by conferring on it an advantage not available to it on the market and are thus selective. HSW is active in the production of construction machinery, which is a sector involving intensive trade within the European Union. These measures therefore constitute state aid within the meaning of Article 87(1) of the EC Treaty amounting to PLN 66,77 million (EUR 17,467 million).</Text>
+                     </P>
+                  </Division>
+               </Division>
+               <Division>
+                  <Number>5.3.</Number>
+                  <Title>Compatibility of the aid: derogation under Article 87(3) of the EC Treaty</Title>
+                  <Division>
+                     <Number>(57)</Number>
+                     <P>
+                        <Text>The exemptions referred to in Article 87(2) of the EC Treaty do not apply in this case. As regards exemptions under Article 87(3), given that the primary objective of the aid is to restore the long-term viability of a firm in difficulty, only the exemption set out in Article 87(3)(c), which authorises state aid to promote the development of certain economic activities where such aid does not adversely affect trading conditions to an extent contrary to the common interest, can be applied.</Text>
+                     </P>
+                  </Division>
+                  <Division>
+                     <Number>5.3.1.</Number>
+                     <Title>Applicable legal basis</Title>
+                     <Division>
+                        <Number>(58)</Number>
+                        <P>
+                           <Text>The Commission will assess the measures constituting new aid and the whole restructuring plan in accordance with the Community guidelines on state aid for rescuing and restructuring firms in difficulty. The current Community Guidelines on state aid for rescuing and restructuring firms in difficulty<FootnoteRef Ref="f00010"/> (‘the 2004 guidelines’) entered into force on 10 October 2004. In the case of measures notification of which was registered before this date, the previous 1999 rescue and restructuring guidelines<FootnoteRef Ref="f00011"/> (‘the 1999 guidelines’) apply. According to point 104 of the 2004 guidelines, ‘the Commission will examine the compatibility with the common market of any rescue and restructuring aid granted without its authorisation and therefore in breach of Article 88(3) of the Treaty on the basis of those Guidelines if some or all of the aid is granted the date of their publication in the Official Journal of the European Union.’</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(59)</Number>
+                        <P>
+                           <Text>In this case, notification of the measures described in Table 2 was given on 8 October 2004 (two days before the entry into force of the 2004 guidelines). However, the Polish authorities also informed the Commission by letter dated 7 March 2006 of additional aid granted unlawfully to HSW. The measures described in Table 6, rows III and IV, were all granted after December 2004, i.e. after 1 October 2004, when the 2004 guidelines were published. The Commission therefore concludes that, in this case, the 2004 guidelines should apply to both notified and non-notified measures since they all concern the same restructuring plan.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(60)</Number>
+                        <P>
+                           <Text>As already mentioned in the Commission decision to initiate the formal investigation procedure, it is necessary to look at the whole picture in order to assess the compatibility of the new restructuring aid. In order to establish whether the plan will result in the restoration of viability, all aid measures, not only new aid, must be taken into account when assessing whether the aid is limited to the minimum necessary and when determining the appropriate compensatory measures.</Text>
+                        </P>
+                     </Division>
+                  </Division>
+                  <Division>
+                     <Number>5.3.2.</Number>
+                     <Title>Eligibility of the firm</Title>
+                     <Division>
+                        <Number>(61)</Number>
+                        <P>
+                           <Text>For all the reasons already set out in the decision to initiate the formal investigation procedure (see in particular points 85 et seq.), the firm is a company in difficulty within the meaning of points 9 et seq. of the 2004 guidelines and is therefore eligible for restructuring aid.</Text>
+                        </P>
+                     </Division>
+                  </Division>
+                  <Division>
+                     <Number>5.3.3.</Number>
+                     <Title>Restoration of viability</Title>
+                     <Division>
+                        <Number>(62)</Number>
+                        <P>
+                           <Text>The guidelines indicate that ‘the restructuring plan, the duration of which must be as short as possible, must restore the long-term viability of the firm within a reasonable timescale and on the basis of realistic assumptions as to future operating conditions. […] The improvement in viability must derive mainly from internal measures […].’</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(63)</Number>
+                        <P>
+                           <Text>HSW's most fundamental problem was its high indebtedness. The Commission notes that financial restructuring has almost been completed.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(64)</Number>
+                        <P>
+                           <Text>In the decision to initiate the investigation procedure, the Commission expressed doubts that the restructuring was mainly financial rather than industrial and noted that insufficient attention had been given to aspects of industrial restructuring. In their comments following the decision, the Polish authorities provided sufficient evidence that the obsolete organisational structure genuinely was one of the key problems facing the company. This problem was addressed by separating the part of the company directly linked to production (HSW-Trading) from the parts intended to be sold. This was the reason for the temporary creation by HSW S.A. of the independent company HSW-Trading.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(65)</Number>
+                        <P>
+                           <Text>The sale of shares in subsidiaries and the ring-fencing and sale of selected service departments was planned as one of the main elements of restructuring. In the decision to initiate the investigation procedure, the Commission expressed doubts as to whether the sales plan was realistic. However, in fact, HSW realised more than four times the forecast revenue from the sale.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(66)</Number>
+                        <P>
+                           <Text>Another key component of the restructuring's success was the ownership situation of Dressta. The controlling share in Dressta held by one of HSW's competitors — KAIC — constituted an obstacle to full access to the important North American market. The problem has now been solved as HSW has regained control of Dressta, and its expansion on the growing North American market is no longer blocked by its competitor. Indeed, the Commission notes that the most crucial sales market, owing to its absorptive power and size, is the North American market, and in particular the USA. The increase in sales in this market is a great opportunity for HSW, particularly since it is to begin using the Dressta brand name, which is well known on the market.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(67)</Number>
+                        <P>
+                           <Text>Employment restructuring designed to reduce the workforce by more than 1 000 is a real and credible cost–cutting measure.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(68)</Number>
+                        <P>
+                           <Text>HSW recorded a profit for the first time in 2005. At the end of the restructuring period (2007), the profit is expected to decrease, but this is due to high restructuring costs and an exceptionally inflated profit figure for 2005, resulting from one-off sales of assets in that year. However, from 2007 onwards, the net result is expected to improve and to double by 2012. By the end of the restructuring period the liquidity problem should be resolved.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(69)</Number>
+                        <P>
+                           <Text>On the basis of these elements, the Commission concludes that its doubts as to whether the plan will lead to restoration of viability have been allayed.</Text>
+                        </P>
+                     </Division>
+                  </Division>
+                  <Division>
+                     <Number>5.3.4.</Number>
+                     <Title>Avoidance of undue distortions of competition</Title>
+                     <Division>
+                        <Number>(70)</Number>
+                        <P>
+                           <Text>According to the Polish authorities, HSW plans to reduce annual production capacity from 1 500 to 1 200 construction machines, i.e. by 20 %. The Commission takes the view that this capacity reduction is insufficient as the company plans in any case to use only 66 % of capacity at the end of the restructuring period, i.e. in 2007. The Commission has not received any information from Poland to suggest that the company was actually selling more than 1 200 machines before the start of restructuring.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(71)</Number>
+                        <P>
+                           <Text>Furthermore, the Polish authorities maintain that the recipient has sold a number of profitable production companies, thereby limiting its activities and production capacity. At least two big subsidiaries (HSW-Walcownia Blach Sp. z o.o. and HSW-Huta Stali Jakosciowych) were profitable and were sold at a profit. The combined turnover of these two subsidiaries in 2005 was PLN 460 million (EUR 121 million) with a workforce of 1 000, whereas the core activity of HSW group (HSW and HSW-Trading) achieved a turnover of PLN 430 million (EUR 113,1 million) with 2 400 employees. The two subsidiaries that were sold produced finished steel products. At the time of the sale, according to an evaluation submitted to the Commission, these two subsidiaries were profitable, with the prospect of a return on sales of about 6 %. The two subsidiaries formed a very significant part of the HSW group, with profitable activities and good market prospects.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(72)</Number>
+                        <P>
+                           <Text>The Commission therefore takes the view that the sale of these subsidiaries can be regarded as a compensatory measure and not simply as an action necessary to restore HSW's viability.</Text>
+                        </P>
+                     </Division>
+                  </Division>
+                  <Division>
+                     <Number>5.3.5.</Number>
+                     <Title>Aid limited to the minimum</Title>
+                     <Division>
+                        <Number>(73)</Number>
+                        <P>
+                           <Text>The Polish authorities have provided various details on the amounts regarded as constituting the recipient's own contribution to the restructuring costs.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(74)</Number>
+                        <P>
+                           <Text>First, the company plans to obtain bank loans to an amount of PLN 46,9 million (EUR 12 million). The Polish authorities have provided evidence that HSW will be able to obtain such financing on the market, given that it benefited from limited private financing of PLN 31,9 million (EUR 8,4 million) in the period 2003-05. They also claim that the recipient will be able to find market financing until the end of the restructuring period.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(75)</Number>
+                        <P>
+                           <Text>Second, HSW received revenue of PLN 112,2 million (EUR 29,5 million) from the sale of its subsidiaries.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(76)</Number>
+                        <P>
+                           <Text>Lastly, the recipient has sold assets to a value of PLN 52,1 million (EUR 13,7 million).</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(77)</Number>
+                        <P>
+                           <Text>To conclude, as regards the financing sources of the restructuring measures, PLN 243,1 million (EUR 64 million) can be regarded as constituting the recipient's own contribution or external resources free of state aid. Overall restructuring costs, including costs incurred prior to accession, amount to PLN 450,3 million (EUR 118,5 million). HSW's own contribution to the total restructuring costs is therefore equivalent to 54 %.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(78)</Number>
+                        <P>
+                           <Text>The 2004 guidelines set 50 % as the minimum level of the own contribution to restructuring costs. The Commission therefore concludes that the level of own contribution is significant and that, in light of the information provided, the aid is limited to the minimum necessary.</Text>
+                        </P>
+                     </Division>
+                  </Division>
+                  <Division>
+                     <Number>5.3.6.</Number>
+                     <Title>‘One time, last time’ principle</Title>
+                     <Division>
+                        <Number>(79)</Number>
+                        <P>
+                           <Text>In the decision to initiate the formal investigation procedure, the Commission noted that HSW–Zakład Zespołów Mechanicznych had received restructuring aid that was granted before accession for the period 2003-07. It was necessary to demonstrate that the aid had had no spill-over effects on the parent company. On the other hand, Poland was asked to assure the Commission that the restructuring aid to HSW, if approved by the Commission, would not have any spill-over effects on HSW–Zakład Zespołów Mechanicznych.</Text>
+                        </P>
+                     </Division>
+                     <Division>
+                        <Number>(80)</Number>
+                        <P>
+                           <Text>The Polish authorities have assured the Commission that bilateral relations between HSW–Zakład Zespołów Mechanicznych and HSW are based on market conditions (including terms of payment and of delivery) and that the companies, as distinct legal entities, have separate accounts. The sole reason why HSW chose HSW–Zakład Zespołów Mechanicznych as a supplier was its geographical proximity.</Text>
+                        </P>
+                     </Division>
+                  </Division>
+                  <Division>
+                     <Number>5.3.7.</Number>
+                     <Title>Separation between subsidised special military production and civil production</Title>
+                     <Division>
+                        <Number>(81)</Number>
+                        <P>
+                           <Text>The Commission expressed doubts in the decision to initiate the formal investigation procedure as to whether a sufficient separation had been made between subsidised special military production (guns) and civil production of construction machinery in order to avoid cross-subsidisation between these two fields of activity. The Polish authorities have assured the Commission that the current system of cost accounting allows for a clear separation of the costs of these two types of activities.</Text>
+                        </P>
+                     </Division>
+                  </Division>
+               </Division>
+            </Division>
+            <Division>
+               <Number>6.</Number>
+               <Title>CONCLUSIONS</Title>
+               <Division>
+                  <Number>(82)</Number>
+                  <P>
+                     <Text>The Commission concludes that the partially unlawful and partially notified state aid is compatible with the common market,</Text>
+                  </P>
+               </Division>
+            </Division>
+            <P>
+               <Text>HAS ADOPTED THIS DECISION:</Text>
+            </P>
+         </EUPreamble>
+      </EUPrelims>
+      <EUBody DocumentURI="http://www.legislation.gov.uk/eudn/2007/257/body" IdURI="http://www.legislation.gov.uk/id/eudn/2007/257/body" NumberOfProvisions="2" RestrictStartDate="2006-12-20" RestrictExtent="E+W+S+N.I.">
+         <P1 DocumentURI="http://www.legislation.gov.uk/eudn/2007/257/article/1" IdURI="http://www.legislation.gov.uk/id/eudn/2007/257/article/1" id="article-1" RestrictStartDate="2006-12-20" RestrictExtent="E+W+S+N.I.">
+            <Pnumber>Article 1</Pnumber>
+            <P1para>
+               <Text>State aid amounting to PLN 66,377 million which has been granted to or is planned for HSW and some of which Poland has already partially or fully implemented in contravention of Article 88(3) of the EC Treaty and some of which Poland has not yet implemented is compatible with the common market.</Text>
+            </P1para>
+         </P1>
+         <P1 DocumentURI="http://www.legislation.gov.uk/eudn/2007/257/article/2" IdURI="http://www.legislation.gov.uk/id/eudn/2007/257/article/2" id="article-2" RestrictStartDate="2006-12-20" RestrictExtent="E+W+S+N.I.">
+            <Pnumber>Article 2</Pnumber>
+            <P1para>
+               <Text>This Decision is addressed to the Republic of Poland.</Text>
+            </P1para>
+         </P1>
+         <SignedSection DocumentURI="http://www.legislation.gov.uk/eudn/2007/257/signature" IdURI="http://www.legislation.gov.uk/id/eudn/2007/257/signature" RestrictStartDate="2006-12-20" RestrictExtent="E+W+S+N.I.">
+            <Signatory>
+               <Para>
+                  <Text>Done at Brussels, 20 December 2006.</Text>
+               </Para>
+               <Signee>
+                  <Para>
+                     <Text>
+                        <Emphasis>For the Commission</Emphasis>
+                     </Text>
+                  </Para>
+                  <Para>
+                     <Text>Neelie <Uppercase>Kroes</Uppercase>
+                     </Text>
+                  </Para>
+                  <Para>
+                     <Text>
+                        <Emphasis>Member of the Commission</Emphasis>
+                     </Text>
+                  </Para>
+               </Signee>
+            </Signatory>
+         </SignedSection>
+      </EUBody>
+   </EURetained><Footnotes><Footnote id="f00001">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00001" Class="EuropeanUnionOfficialJournal" Year="2006" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2006.034.01.0005.01.ENG" Date="2006-02-10">OJ C 34, 10.2.2006, p. 5</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote><Footnote id="f00002">
+         <FootnoteText>
+            <Para>
+               <Text>See footnote 1.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote><Footnote id="f00003">
+         <FootnoteText>
+            <Para>
+               <Text>All amounts provided by the Polish authorities in PLN have been converted for information purposes into euro using the exchange rate as at 17 November 2006 of EUR 1 = PLN 3,8019.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote><Footnote id="f00004">
+         <FootnoteText>
+            <Para>
+               <Text>Confidential information.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote><Footnote id="f00008">
+         <FootnoteText>
+            <Para>
+               <Text>Judgment of the Court of First Instance of 14 January 2004 in Case T-109/01 <Emphasis>Fleuren Compost</Emphasis> v <Emphasis>Commission</Emphasis> [2004] ECR II-127, paragraph 74.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote><Footnote id="f00009">
+         <FootnoteText>
+            <Para>
+               <Text>Cf. cases <Emphasis>Wildauer Kurbelwelle</Emphasis> (<Citation id="c00002" Class="EuropeanUnionOfficialJournal" Year="2000" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2000:287:TOC" Date="2000-12-13">OJ L 287, 13.12.2000</Citation>) and <Emphasis>Lautex Weberei und Veredelung</Emphasis> (<Citation id="c00003" Class="EuropeanUnionOfficialJournal" Year="1999" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:1999:042:TOC" Date="1999-07-20">OJ L 42, 20.7.1999</Citation>).</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote><Footnote id="f00010">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00004" Class="EuropeanUnionOfficialJournal" Year="2004" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2004.244.01.0002.01.ENG" Date="2004-10-01">OJ C 244, 1.10.2004, p. 2</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote><Footnote id="f00011">
+         <FootnoteText>
+            <Para>
+               <Text>
+                  <Citation id="c00005" Class="EuropeanUnionOfficialJournal" Year="1999" URI="https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.1999.288.01.0002.01.ENG" Date="1999-10-09">OJ C 288, 9.10.1999, p. 2</Citation>.</Text>
+            </Para>
+         </FootnoteText>
+      </Footnote></Footnotes></Legislation>

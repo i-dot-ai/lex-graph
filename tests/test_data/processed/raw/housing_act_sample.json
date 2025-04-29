@@ -1,0 +1,295 @@
+{
+    "category": "primary",
+    "commentaries": {
+        "c2050708": {
+            "citations": [
+                {
+                    "citation_ref": "SelfReference",
+                    "citation_type": "primary",
+                    "context": "S.I. 2006/1060",
+                    "id": "c00005",
+                    "section_ref": null,
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/uksi/2006/1060"
+                },
+                {
+                    "citation_ref": "SelfReference",
+                    "citation_type": "primary",
+                    "context": "S.I. 2006/1535",
+                    "id": "c00009",
+                    "section_ref": null,
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/uksi/2006/1535"
+                },
+                {
+                    "citation_ref": "SelfReference",
+                    "citation_type": "sub_reference",
+                    "context": "S. 1",
+                    "id": "c00001",
+                    "section_ref": "section-1",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/1"
+                },
+                {
+                    "citation_ref": "SelfReference",
+                    "citation_type": "sub_reference",
+                    "context": "s. 1",
+                    "id": "c00002",
+                    "section_ref": "section-1",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/1"
+                },
+                {
+                    "citation_ref": "SelfReference",
+                    "citation_type": "sub_reference",
+                    "context": "s. 270(4)(5)",
+                    "id": "c00003",
+                    "section_ref": "section-270-4-5",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/270/4/5"
+                },
+                {
+                    "citation_ref": "SelfReference",
+                    "citation_type": "sub_reference",
+                    "context": "s. 1",
+                    "id": "c00004",
+                    "section_ref": "section-1",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/1"
+                },
+                {
+                    "citation_ref": "c00005",
+                    "citation_type": "sub_reference",
+                    "context": "art. 2(1)(a)",
+                    "id": "c00006",
+                    "section_ref": "article-2-1-a",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/uksi/2006/1060/article/2/1/a"
+                },
+                {
+                    "citation_ref": "c00005",
+                    "citation_type": "sub_reference",
+                    "context": "Sch.",
+                    "id": "c00007",
+                    "section_ref": "schedule",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/uksi/2006/1060/schedule"
+                },
+                {
+                    "citation_ref": "SelfReference",
+                    "citation_type": "sub_reference",
+                    "context": "s. 1",
+                    "id": "c00008",
+                    "section_ref": "section-1",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/1"
+                },
+                {
+                    "citation_ref": "c00009",
+                    "citation_type": "sub_reference",
+                    "context": "art. 2(a)",
+                    "id": "c00010",
+                    "section_ref": "article-2-a",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/uksi/2006/1535/article/2/a"
+                },
+                {
+                    "citation_ref": "c00009",
+                    "citation_type": "sub_reference",
+                    "context": "Sch.",
+                    "id": "c00011",
+                    "section_ref": "schedule",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/uksi/2006/1535/schedule"
+                }
+            ],
+            "id": "c2050708",
+            "text": "S. 1 wholly in force at 16.6.2006; s. 1 not in force at Royal Assent see s. 270(4)(5) ; s. 1 in force for E. at 6.4.2006 by S.I. 2006/1060 , art. 2(1)(a) (with Sch. ); s. 1 in force for W. at 16.6.2006 by S.I. 2006/1535 , art. 2(a) (with Sch. )",
+            "type": "I"
+        },
+        "c2051523": {
+            "citations": [
+                {
+                    "citation_ref": "SelfReference",
+                    "citation_type": "primary",
+                    "context": "S.I. 2006/1060",
+                    "id": "c02616",
+                    "section_ref": null,
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/uksi/2006/1060"
+                },
+                {
+                    "citation_ref": "SelfReference",
+                    "citation_type": "primary",
+                    "context": "S.I. 2006/1535",
+                    "id": "c02620",
+                    "section_ref": null,
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/uksi/2006/1535"
+                },
+                {
+                    "citation_ref": "c02616",
+                    "citation_type": "sub_reference",
+                    "context": "art. 2(1)(a)",
+                    "id": "c02617",
+                    "section_ref": "article-2-1-a",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/uksi/2006/1060/article/2/1/a"
+                },
+                {
+                    "citation_ref": "c02616",
+                    "citation_type": "sub_reference",
+                    "context": "Sch.",
+                    "id": "c02618",
+                    "section_ref": "schedule",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/uksi/2006/1060/schedule"
+                },
+                {
+                    "citation_ref": "c02620",
+                    "citation_type": "sub_reference",
+                    "context": "art. 2(a)",
+                    "id": "c02621",
+                    "section_ref": "article-2-a",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/uksi/2006/1535/article/2/a"
+                },
+                {
+                    "citation_ref": "c02620",
+                    "citation_type": "sub_reference",
+                    "context": "Sch.",
+                    "id": "c02622",
+                    "section_ref": "schedule",
+                    "type": "I",
+                    "uri": "http://www.legislation.gov.uk/id/uksi/2006/1535/schedule"
+                }
+            ],
+            "id": "c2051523",
+            "text": "Sch. 1 wholly in force at 16.6.2006; Sch. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 1 in force for E. at 6.4.2006 by S.I. 2006/1060 , art. 2(1)(a) (with Sch. ); Sch. 1 in force for W. at 16.6.2006 by S.I. 2006/1535 , art. 2(a) (with Sch. )",
+            "type": "I"
+        }
+    },
+    "description": "An Act to make provision about housing conditions; to regulate houses in multiple occupation and certain other residential accommodation; to make provision for home information packs in connection with the sale of residential properties; to make provision about secure tenants and the right to buy; to make provision about mobile homes and the.",
+    "enactment_date": "2004-11-18",
+    "extent": [
+        "United Kingdom"
+    ],
+    "id": "http://www.legislation.gov.uk/id/ukpga/2004/34",
+    "modified_date": "2022-05-25",
+    "number_of_provisions": 647,
+    "publisher": "Statute Law Database",
+    "schedules": [
+        {
+            "commentary_refs": [
+                "c2051523"
+            ],
+            "extent": [
+                "England",
+                "Wales"
+            ],
+            "id": "http://www.legislation.gov.uk/id/ukpga/2004/34/schedule/1",
+            "legislation_title": "Housing Act 2004",
+            "number": "1",
+            "paragraphs": [
+                {
+                    "commentary_refs": [
+                        "c2051523"
+                    ],
+                    "id": "http://www.legislation.gov.uk/id/ukpga/2004/34/schedule/1/paragraph/1",
+                    "legislation_title": "Housing Act 2004",
+                    "number": "1",
+                    "paragraph_id": "schedule-1-paragraph-1",
+                    "references": [],
+                    "text": "This paragraph applies where the specified premises in the case of an improvement notice are— a a dwelling which is licensed under Part 3 of this Act, or",
+                    "uri": "http://www.legislation.gov.uk/ukpga/2004/34/schedule/1/paragraph/1"
+                }
+            ],
+            "references": [],
+            "text": "Procedure and appeals relating to improvement notices",
+            "uri": "http://www.legislation.gov.uk/ukpga/2004/34/schedule/1"
+        }
+    ],
+    "sections": [
+        {
+            "commentary_refs": [
+                "c2050708"
+            ],
+            "extent": [
+                "England",
+                "Wales"
+            ],
+            "id": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/1",
+            "legislation_title": "Housing Act 2004",
+            "number": "1",
+            "paragraphs": [
+                {
+                    "commentary_refs": [],
+                    "id": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/1/1",
+                    "legislation_title": "Housing Act 2004",
+                    "number": "1",
+                    "paragraph_id": "section-1-1",
+                    "references": [],
+                    "text": "This Part provides— a for a new system of assessing the condition of residential premises, and b for that system to be used in the enforcement of housing standards in relation to such premises.",
+                    "uri": "http://www.legislation.gov.uk/ukpga/2004/34/section/1/1"
+                },
+                {
+                    "commentary_refs": [],
+                    "id": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/1/2",
+                    "legislation_title": "Housing Act 2004",
+                    "number": "2",
+                    "paragraph_id": "section-1-2",
+                    "references": [
+                        {
+                            "act": null,
+                            "context": "The new system— a operates by reference to the existence of category 1 or category 2 hazards on residential premises (see section 2), and b replaces the existing system based on the test of fitness for human habitation contained in section 604 of the Housing Act 1985 (c. 68).",
+                            "section": "2",
+                            "source_id": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/1/2",
+                            "type": null
+                        },
+                        {
+                            "act": "Housing Act 1985",
+                            "context": "The new system— a operates by reference to the existence of category 1 or category 2 hazards on residential premises (see section 2), and b replaces the existing system based on the test of fitness for human habitation contained in section 604 of the Housing Act 1985 (c. 68).",
+                            "section": "604",
+                            "source_id": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/1/2",
+                            "type": null
+                        },
+                        {
+                            "act": null,
+                            "context": "operates by reference to the existence of category 1 or category 2 hazards on residential premises (see section 2), and",
+                            "section": "2",
+                            "source_id": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/1/2",
+                            "type": null
+                        },
+                        {
+                            "act": "Housing Act 1985",
+                            "context": "replaces the existing system based on the test of fitness for human habitation contained in section 604 of the Housing Act 1985 (c. 68).",
+                            "section": "604",
+                            "source_id": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/1/2",
+                            "type": null
+                        }
+                    ],
+                    "text": "The new system— a operates by reference to the existence of category 1 or category 2 hazards on residential premises (see section 2), and b replaces the existing system based on the test of fitness for human habitation contained in section 604 of the Housing Act 1985 (c. 68).",
+                    "uri": "http://www.legislation.gov.uk/ukpga/2004/34/section/1/2"
+                },
+                {
+                    "commentary_refs": [],
+                    "id": "http://www.legislation.gov.uk/id/ukpga/2004/34/section/1/3",
+                    "legislation_title": "Housing Act 2004",
+                    "number": "3",
+                    "paragraph_id": "section-1-3",
+                    "references": [],
+                    "text": "The kinds of enforcement action which are to involve the use of the new system are— a the new kinds of enforcement action contained in Chapter 2 (improvement notices, prohibition orders and hazard awareness notices),",
+                    "uri": "http://www.legislation.gov.uk/ukpga/2004/34/section/1/3"
+                }
+            ],
+            "references": [],
+            "text": "New system for assessing housing conditions and enforcing housing standards",
+            "uri": "http://www.legislation.gov.uk/ukpga/2004/34/section/1"
+        }
+    ],
+    "status": "revised",
+    "title": "Housing Act 2004",
+    "type": "UnitedKingdomPublicGeneralAct",
+    "uri": "http://www.legislation.gov.uk/ukpga/2004/34",
+    "valid_date": "2022-04-28"
+}

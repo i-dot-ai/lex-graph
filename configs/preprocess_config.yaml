@@ -1,0 +1,20 @@
+# Default configuration for legislation processor
+
+# Paths
+input_path: "data/raw"
+output_path: "data/processed"
+
+# Processing mode (uncomment one of the following)
+# file: "path/to/specific/file.xml"    # Process a single file
+# all: true                            # Process all files
+test: true                           # Run test processing
+# year: 2024                           # Process files from specific year
+
+# Additional filters
+# type: "ukpga"                        # Filter by legislation type (e.g., ukpga, eudn, asp)
+
+# Processing settings
+# These are example settings that could be added in the future
+# max_workers: null                    # Number of worker processes (null = use CPU count)
+# verbose: false                       # Enable verbose logging
+# skip_errors: false                   # Continue processing if errors occur
