@@ -4,6 +4,8 @@
 
 This repo builds a knowledge graph from UK legislation and provides an application for exploring the graph.
 
+Originally prototyped by [@livadlivesey](https://github.com/livadlivesey) and [@GavEdwards](https://github.com/GavEdwards). 
+
 ![Header Image](header.jpg)
 
 ## Accessing the Graph ⬇️📄
