@@ -8,7 +8,7 @@ This repo builds a knowledge graph from UK legislation and provides an applicati
 
 ## Accessing the Graph ⬇️📄
 
-This repo is the code used to build Lex Graph from scratch. If you wish to simply access the produced knowledge graph, Lex Graph can be downloaded from [hugging face datasets].
+This repo is the code used to build Lex Graph from scratch. If you wish to simply access the produced knowledge graph, Lex Graph can be downloaded from [i.AI's Hugging Face Datasets](https://huggingface.co/i-dot-ai).
 
 ## Setup 🛠️
 
