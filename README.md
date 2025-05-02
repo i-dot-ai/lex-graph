@@ -10,7 +10,7 @@ Originally prototyped by [@livadlivesey](https://github.com/livadlivesey) and [@
 
 ## Accessing the Graph ⬇️📄
 
-This repo is the code used to build Lex Graph from scratch. If you wish to simply access the produced knowledge graph, Lex Graph can be downloaded from [i.AI's Hugging Face Datasets](https://huggingface.co/i-dot-ai).
+This repo is the code used to build Lex Graph from scratch. If you wish to simply access the produced knowledge graph, Lex Graph can be downloaded from [i.AI's Hugging Face Datasets](https://huggingface.co/datasets/i-dot-ai/lex-graph).
 
 ## Setup 🛠️
 
