@@ -2,11 +2,17 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 ![Maturity level-Prototype](https://img.shields.io/badge/Maturity%20Level-Prototype-red)
 
-This repo builds a knowledge graph from UK legislation and provides a Streamlit application for exploring and visualising the graph.
+This repo builds a knowledge graph from UK legislation and provides an application for exploring the graph.
 
 ![Header Image](header.jpg)
 
+## Accessing the Graph ⬇️📄
+
+This repo is the code used to build Lex Graph from scratch. If you wish to simply access the produced knowledge graph, Lex Graph can be downloaded from [hugging face datasets].
+
 ## Setup 🛠️
+
+To build the Lex Graph from scratch, please follow these steps: 
 
 1. Clone the repo
 
@@ -27,21 +33,17 @@ poetry install
 ```
 
 
-## Download the data 📥
+## Download raw legislation data 📥
 
 
-A dump of the latest XML versions of legislation is available from the national archives [here](http://leggovuk-ldn.s3-website.eu-west-2.amazonaws.com/texts/revised-current/xml/index.htm).
+A dump of the latest XML versions of legislation is available from the new Legislation Research website from the National Archives. At the time of publishing this is in beta. If you are interested in gaining access to the raw data to build the graph from scratch, please contact the Legislation Data Team (data.legislation@nationalarchives.gov.uk).
 
-Download and unzip the data
+Once you have access, download the Legislative Texts Enacted CLML data and unzip it into [data/raw](data/raw).
 
-```bash
-wget http://leggovuk-ldn.s3-website.eu-west-2.amazonaws.com/texts/revised-current/xml/revised-current-xml.zip
-unzip revised-current-xml.zip -d data/raw
-```
+![image](https://github.com/user-attachments/assets/e265f3b8-c5c2-4fea-a08b-e56514061513)
 
-The downloaded data is in XML format and can be found in the [data/raw](data/raw) directory once unzipped.
 
-## Usage 🚀
+## Build the graph 🚀
 
 
 The graph build process consists of two steps:
@@ -147,6 +149,6 @@ This is a prototype and does not guarantee accurate data. The codebase and featu
 
 ## Credits
 
-This project builds upon and was inspired by the work of the Graphie team at King’s Quantitative and Digital Law Lab (QuantLaw), King's College London. Their original project Graphie demonstrated innovative approaches to legal knowledge graph construction and analysis of UK legislation, based on the Housing Act 2004. We encourage those interested in legal knowledge graphs to explore the original Graphie (https://graphie.quantlaw.co.uk/) project available at: https://github.com/kclquantlaw/graphie.
+This project builds upon and was inspired by the work of the Graphie team at King’s Quantitative and Digital Law Lab (QuantLaw), King's College London. Their original project Graphie demonstrated innovative approaches to legal knowledge graph construction and analysis of UK legislation, based on the Housing Act 2004. We encourage those interested in legal knowledge graphs to explore the original [Graphie](https://graphie.quantlaw.co.uk/) project available at: [https://github.com/kclquantlaw/graphie](https://github.com/kclquantlaw/graphie).
 
-All data is sourced from https://www.legislation.gov.uk/. Crown © and database right material reused under the Open Government Licence v3.0. Material derived from the European Institutions © European Union, 1998-2019, reused under the terms of Commission Decision 2011/833/EU.
+All data is sourced from [The National Archives legislation wesbite](https://www.legislation.gov.uk/). Crown © and database right material reused under the Open Government Licence v3.0. Material derived from the European Institutions © European Union, 1998-2019, reused under the terms of Commission Decision 2011/833/EU.
